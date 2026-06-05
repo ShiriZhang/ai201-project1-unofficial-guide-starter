@@ -2,7 +2,7 @@ Professor: Chee Yap - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 5.0
-CSCIGA1170
+Course: CSCIGA1170
 Date: Mar 7th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -12,7 +12,7 @@ Review: Giving a 1 because this platform does not allow a 0 rating. Avoid!
 ---
 Quality: 1.0
 Difficulty: 5.0
-CSCIGA1170
+Course: CSCIGA1170
 Date: Feb 6th, 2026
 For Credit: Yes
 Attendance: Not Mandatory

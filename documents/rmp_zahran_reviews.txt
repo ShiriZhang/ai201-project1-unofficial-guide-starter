@@ -2,7 +2,7 @@ Professor: Mohamed Zahran - NYU Courant Computer Science
 ---
 Quality: 5.0
 Difficulty: 2.0
-Course: GA3033
+Course: CSCIGA3033
 Date: May 22nd, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -13,7 +13,7 @@ Review: GPU elective course; fair workload; insightful lectures from which every
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: GA3033
+Course: CSCIGA3033
 Dec 23rd, 2024
 Would Take Again: Yes
 Grade: A-
@@ -21,7 +21,7 @@ Review: Professor Z is very nice! He makes class interesting and is good at expl
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: GA3033
+Course: CSCIGA3033
 Date: Oct 14th, 2022
 For Credit: Yes
 Attendance: Not Mandatory
@@ -32,7 +32,7 @@ Review: Z is the most hilarious prof ever. So many excellent jokes to keep us en
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: GA3033
+Course: CSCIGA3033
 Date: Feb 22nd, 2019
 For Credit: Yes
 Attendance: Not Mandatory
