@@ -1,0 +1,72 @@
+Professor: Paul Bethe - NYU Courant Computer Science
+---
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCIGA2560
+Date: Apr 28th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review: DO NOT TAKE THIS CLASS. Material is bad, he comes to class unprepared, his slides are bad and very short, they need to be paired with his handwritten notes. You must go to class and then watch the recording if you want to understand the slides. Homework isn't great, and due every week, labs due every couple weeks, exams are tough. low class avg
+---
+Quality: 3.0
+Difficulty: 3.0
+Course: CSCIGA2560
+Date: Nov 21st, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: This course is not well prepared
+---
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCIGA2560
+Date: Jan 4th, 2022
+For Credit: Yes
+Would Take Again: No
+Textbook: Yes
+Review: Worst professor ever. You can see his lack of preparation in every class, finals and labs are tough, whats even worse is that he refuse to curve the score.
+---
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCIGA2560
+Date: Jan 4th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A-
+Textbook: Yes
+Review: Worst class I've ever taken. Paul is an awful professor. Most of the time he is totally lost in his own class. The extra credit on labs and homewokrs is worth less than 1 point in the entire semester. Grades were given only at the end of the semester. Class notes are uselless and he doesnt even do his own powerpoint presentations. avoid this prof
+---
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCIGA2560
+Date: Nov 18th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Review: In most lectures, he sounds like he's confused and unprepared to explain the concepts. He writes wrong stuff (wrong calculation by mistake) on the board so it makes it really confusing to follow. Weekly homework and 4 programming projects, where the programming projects are pretty difficult.
+---
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCIGA2560
+Date: Nov 14th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Review: The worst class took in my life TBH. No slides, no correct answers on the blackboard, any BootCamp should be much better.
+---
+Quality: 2.0
+Difficulty: 3.0
+Course: CSCIGA2560
+Date: Nov 6th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Review: Lectures are unorganized and there are no slides just some barebones outline, so take notes. Thankfully, we solve problems in class but its never clean and organized, lots of blackboard scribbling and wrong answers. Good thing is homeworks follow closely to lecture, so don't skip class.
+---

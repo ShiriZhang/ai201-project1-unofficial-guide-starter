@@ -1,0 +1,101 @@
+Professor: Chee Yap - NYU Courant Computer Science
+---
+Quality: 1.0
+Difficulty: 5.0
+CSCIGA1170
+Date: Mar 7th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: Giving a 1 because this platform does not allow a 0 rating. Avoid!
+---
+Quality: 1.0
+Difficulty: 5.0
+CSCIGA1170
+Date: Feb 6th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Review: Rip in advance to all those taking the course this semester. If you think Algorithms is boring, take this class and you'll start hating it. The TA is of no help as well
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Mar 5th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review: I think he's too old to teach now, confused all the time, im sure he was a super smart professor maybe 20 years ago now he just forgets everything and confused himself
+---
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCIGA1170
+Date: Dec 26th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Review: Despite the depth provided by the notes, Prof Yap makes it no easier to help the class understand, often making mistakes. But that was much more helpful when compared to the TA, who could not communicate effectively for a single recitation during the entire semester. Lots of homework, but completing them will ensure the curved grading saves you.
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Dec 25th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: I don't understand why so many students gave low ratings. He is clearly a responsible and caring professor, with very sufficient office hours, and he answers questions promptly and thoroughly. I understand that the assignments are difficult, but is it really fair to give a professor low ratings just because the assignments are hard?
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Dec 18th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Review: If you do wanna learn and train your brain, I recommend to choose Professor Yap.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course:CSCIGA1170
+Date: Dec 16th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Very messy organization.
+---
+Quality: 3.0
+Difficulty: 3.0
+Course: CSCIGA1170
+Date: Oct 27th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Prof is ok. Just prepare to study and ask for help.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Jun 24th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Review: Just avoid him. His lectures are extremely boring. Instead of using a textbook, he uses his own materials that are very poorly written (confusing and containing lots of errors) and outdated. He just can't explain things clearly. Also, don't believe in his promises about grading or anything, he will always find ways to circumvent them as he pleased.
+---
+Quality: 4.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Dec 23rd, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Prof is a nice person, and understands his curiculum very well. Things get very Math heavy a lot of the time, so for people who really want to understand the inner workings in depth, this is a great course, otherwise it might be a little way extra for understanding Algorithms. The Homeworks are way harder than the end-term exams.
+---

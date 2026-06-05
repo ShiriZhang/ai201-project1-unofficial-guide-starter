@@ -1,0 +1,103 @@
+Professor: Yevgeniy Dodis - NYU Courant Computer Science
+---
+Quality: 4.0
+Difficulty: 3.0
+Course: CSCIGA1170
+Date: Jan 11th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Accent is a bit hard to understand. Handwriting is bad. VERY assignment-heavy (weekly, with a break for just one assignment). Overall the course was good though. I enjoyed the analogies used while teaching which made some concepts easier to understand. If you do the HW on your own with minimal outside help, the exams should feel easy.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Dec 15th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: This never seen an instruction team with lower work ethics. Professor does not speak English. The hand writting is ineligible. The homeworks are not explained or graded from exams. They do not release solutions to homework or exams. We cannot see our mistakes. This instruction team go out of their way to prevent us from learning. So irresponsible.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: May 23rd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Review: illegible lecture note scribbles; tedious weekly assignments with endless questions, as if we were only taking his class; terrible management by TA (can look up Spring 2025 session for name), delayed response and release of notes; unclear test questions resulting in ambiguous solutions, quite some students underperformed because of such confusions
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Jan 22nd, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: total waste of time
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Jan 21st, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: Only useful if you want to specialize in this field. Other instructors give 2 pages of exam + 1-2 pages of homework while you get 15 pages of exam + 5-6 pages of homework every single week. I don't mind working hard but working hard on this class prevented me to focus on the topics i am actually interested in. Pointless
+---
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCIGA1170
+Date: Dec 7th, 2023
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Review: Very hard to understand him. Awful handwriting. Didn't learn a single thing in the lectures and had to figure out everything myself. My advice is to take this course from someone else. Otherwise you'll waste A LOT of time
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Nov 16th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Review: He is a good professor if you could accept: 10-hour homework each week. Homework answer not posted. 15 pages long midterm exam has to finish in 2 hours. Russian accent. Hard to read handwriting notes.
+---
+Quality: 4.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Sep 26th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: N/A
+Review: Nice course and nice professor. but very difficult.
+---
+Quality: 3.0
+Difficulty: 5.0
+Course: CSCIGA1170
+Date: Nov 21st, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Review: Focuses on the proofs of algorithms
+---
+Quality: 4.0
+Difficulty: 4.0
+Course: CSCIGA1170
+Date: May 27th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: The course will make you work long hours and you'll definitely crib a lot, but it will all be worth it in the end. You get to learn a lot through the HWs which are extremely thorough. The lectures could have been better but the TAs are available at all times to help you out. Take the course if you really want to learn algorithms imo.
+---

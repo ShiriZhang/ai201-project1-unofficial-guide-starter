@@ -1,0 +1,114 @@
+Professor: Dennis Shasha - NYU Courant Computer Science
+---
+Quality: 4.0
+Difficulty: 2.0
+Course: CSCIGA2434
+Date: May 5th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: What I like most about Shasha is that he records every course even before the pandemic. Also, his speech is very clear. But I don't understand why he likes ReproZip so much. It could be tricky for some students and sometimes even the course assistant don't know what to do.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2433
+Date: Feb 13th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: No
+Review: Prof Shasha is a real gem to NYU. He is a very nice professor. I took his Database systems class. His lectures are good, and his assignments were also good, though his project required a lot of effort. He makes sure that the students understand the material and is also accessible outside the class and clears all the doubts until they are cleared.
+---
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCIGA2433
+Date: Jan 14th, 2020
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Took his basic database class. Prof. Shasha is very caring to his students and his lectures are well-paced. If he feels that the class didn't understand the material, he would revisit again with further clarifications. The same applies to the homeworks, he makes sure our questions were answered. He is one of the more fun professors to be had at NY
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2965
+Date: Jul 25th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Prof. Shasha is one of the best. The course Adv DB was a combination of theory and applied with challenging hands on assignments. The lectures were informative, entertaining and necessary for the course (massive hints given in lectures). Extremely responsive. Excellent course, worked heard, acquired new skills. Super smart and relaxed.
+---
+Quality: 3.0
+Difficulty: 3.0
+Course: CSCIGA2434
+Date: Nov 7th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: No
+Review: Have him for Adv. Databases, which covers concurrency + recovery and tuning. Very nice and genial prof, but his proofs and explanations for the cc+r stuff are really messy- I suspect that his understanding of this stuff has gotten rusty over time. His database tuning lectures are noticeably better. I'd recommend teaching yourself the CC+R stuff.
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCIGA2965
+Date: Jan 18th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Best cousre I've done so far. But be prepared to code a lot and design and implement your own algorithms. There are hardly any lectures and the class is more like a puzzle solving society, but is a lot of nerdy fun.
+---
+Quality: 4.5
+Difficulty: 4.0
+Course: CSCIGA2965
+Date: Sep 1st, 2015
+For Credit: Yes
+Grade: A
+Textbook: No
+Review: Great professor who knows a lot about database systems and teach the course in a way you can understand the material.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2965
+Date: Dec 15th, 2013
+Textbook: No
+Review: Amazing professor! Everyone who likes problem solving and knows some coding needs to take this class! Its an opportunity of a lifetime. I am so happy with the class that I don't even care what grade do I get. I learnt more than I could have in any other class.
+---
+Quality: 1.0
+Difficulty: 1.0
+Course: CSCIGA2434
+Oct 14th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Review: Assignment given has no correlation with the content covered in the class. He teaches Aquery in the class for which there is no documentation out there. There are not much examples provided in the slides and examples given are not correct. Total frustration. Strongly recommending to not take this class.
+---
+Quality: 1.0
+Difficulty: 1.0
+Course: CSCIGA2434
+Date: Oct 14th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Incomplete
+Textbook: No
+Review: This course is totally flawed. He gives the same assignment and that too is inspired by his own work. You will learn nothing in this which you can use in general database.
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2434
+Date: Jul 26th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: Professor Shasha is a well respected computer scientist in the academic community and in NY finance. His approach to databases and database tuning is mathematical and built upon sound logic and proofs of database transaction fundamentals. His assignments are a mixture of theoretical (proofs) and practical (Postgres/MySQL/KDB). Hes a great prof.
+---

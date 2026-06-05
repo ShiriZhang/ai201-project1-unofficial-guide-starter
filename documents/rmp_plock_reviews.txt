@@ -1,0 +1,105 @@
+Professor: Cory Plock - NYU Courant Computer Science
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA2110
+Date: May 24th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Review: Mandatory hurdle. Outdated curriculum (Prolog, SML/NJ, Scheme). Prof abdicates all grading to TAs who deny partial credit and penalize minor pedantic details. Post-semester communication is toxic and defensive; prof sends emails calling regrade or rounding requests "insulting." Final feedback is hidden behind summer Zoom walls. Rigid, unyielding.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2110
+Date: May 22nd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Review: Extremely eloquent articulation, which is helpful for non-native English speakers; Interesting lecture content with diverse range of topics in different programming languages; Difficult open-book test questions
+---
+Quality: 4.0
+Difficulty: 5.0
+Course: CSCIGA2110
+Date: Apr 12th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Incomplete
+Textbook: N/A
+Review: He teaches well, but his tests were too hard. Maybe because they're open-book, he tends to test on the extra material he covers outside of the slides in class, so you'll need to take notes of what he said in class, but some of them weren't even mentioned during the lecture.
+---
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCIGA2110
+Date: Feb 23rd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Reviews: Lectures are quite dry and boring , and there is way too much homework
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2110
+Date: Jan 28th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Review: I took PL with Professor Plock and it was a great experience. He is an excellent lecturer and extremely knowledgable about the concepts from years of industry experience, you can learn a lot. The first homework was very challenging but after that they were manageable. He goes above and beyond if you ask for help.
+---
+Quality: 4.0
+Difficulty: 4.0
+Course: CSCIGA2110
+Date: Jun 13th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Review: I took his PL and his class was fine. The topic is boring so you can't really blame the professor for boring lectures lol. I do feel like the things covered in class are not enough for HWs and tests, and his slides only help so much when it comes to reviewing. Take good notes and actually work on the homework should help. He is a nice person too.
+---
+Quality: 4.0
+Difficulty: 5.0
+Course: CSCIGA2110
+Date: Jun 4th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: N/A
+Review: Very nice person but the course is way too hard! But at least if you ace this course you can learn any language in one day lol
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2110
+Date: Jan 18th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: He is knowledgable and experienced. But getting high marks in his class isn't easy, and grade reflects well the amount of effort you put in
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCIGA2110
+Date: Dec 25th, 2021
+For Credit: Yes
+Would Take Again: Yes
+Textbook: Yes
+Online Class: Yes
+Review: While this subject matter was (for me) quite difficult, Professor Plock gives it an excellent treatment. He is both deeply knowledgeable with regard to the subject matter, and very willing to spend time clarifying concepts beyond the lecture time slot, which was extremely helpful (particularly while taking this online). Definitely recommended.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA2110
+Date: Jul 11th, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Rather not say
+Textbook: Yes
+Review: He would ask you to read dozens of pages of textbook every week - yes, he teaches Programming Language, not History or Literature! Unless you don't care about losing points in exams, you have to read them all! Also a lot of homework and very boring lectures.
+---

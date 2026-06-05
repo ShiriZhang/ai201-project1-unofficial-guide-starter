@@ -1,0 +1,115 @@
+Professor: Hubertus Franke - NYU Courant Computer Science
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2250
+Date: May 4th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: Prof. Franke is a legend. Lectures are very rich and he works hard to engage the class. Coursework is not tough if you are good at managing time (gives you 3-4 weeks to complete labs).
+---
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: Dec 19th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: This class is unnecessarily difficult. Lectures are rushed with an excessive number of slides and are extremely hard to follow due to the dry teaching style. Exams are hard and rely heavily on a curve, yet no practice problems or study materials are provided. Labs are difficult, and the lab specifications are even harder to understand.
+---
+Quality: 3.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: Dec 18th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Lab instructions are messy despite being a big grade %. The slides too, and there aren't any other study materials aside from the textbook, so you have to guess what will be on the (difficult) exams. Lectures are fine but often rushed/compressed to get through the slides. Curves mean that most won't fail, but structure/organization was lacking.
+---
+Quality: 2.0
+Difficulty: 5.0
+Course: CSCIGA2250
+Date: Dec 17th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Review: Tough class, labs are tough exams are a different breed with negative marking! Takes a few days just to understand the lab details since they are so confusing. Lectures are fast paced and hard to navigate. Curves the exams generously but I don't understand the point of first failing the whole class and then curving the scores.
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: Dec 8th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: Yes
+Review: Prof Franke is awesome. 10/10 recommend taking his OS class. Labs are extensive but they really help you learn the material and they help you strengthen coding skills. Start them early, get full points and you'll be fine. Exams are tough but labs are more important for your grade.
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: May 22nd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: Very lenient and responsive almost 24/7 on discord, heard from other classmates that he even offered help to debug codes for you; very difficult test questions but curve extremely kindly
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: Mar 16th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Review: Gives a very generous curve for Mid-terms and Finals (over 50% of the class ends up with A/A- in the end). Just don't mess up your assignments. If you score max pts in all 4, you can screw up your mid-terms and finals and still end up with an A.
+---
+Quality: 3.0
+Difficulty: 5.0
+Course: CSCIGA2250
+Date: Dec 28th, 2024
+For Credit: Yes
+Review: Professor is always willing to help and will do anything to make sure students succeed. Very honest and blunt, but it helps with the learning process. Lectures are fast-paced but harder to understand. Recommended if up for the challenge.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2250
+Date: Dec 25th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Best systems course i've taken so far. - Big, clearly graded and very helpful HWs that teach a lot + prof very helpful - Challenging exams, but very generously curved, i mean very - Don't even think of copying - Bottom line, definitely worth it, i've learnt a lot though this course.
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: Dec 11th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Review: His assignments and exams are hard. Dont use AI because you will actually learn if you try it out. The curves are very generous but he has AURA +1000.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCIGA2250
+Date: May 20th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: Try avoiding this prof
+---

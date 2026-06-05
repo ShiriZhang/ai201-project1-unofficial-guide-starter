@@ -1,0 +1,109 @@
+Professor: Anasse Bari - NYU Courant Computer Science
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA3033
+Date: Dec 21st, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Prof. Bari did an excellent job teaching the AI seminar course. The course was well-structured, engaging, and intellectually rewarding. I gained a strong understanding of AI fundamentals and would highly recommend this class. He is an excellent educator.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA3033
+Date: Aug 25th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Prof. Bari is extremely responsible and dedicated. He is always to ensure that students understand the materials. His clear communication and willingness to help others had a significant positive impact on my learning experience. I love Prof. Bari, he is the best!!
+---
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCIGA3033
+Date: Aug 25th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: Professor Bari is super supportive! His grad summer class on predictive analytics and generative AI was one of the clearest and most valuable learning experiences I've had at NYU. He shares practical resources, gives detailed feedback, and is patient with questions. Even across time zones, he makes accommodations. His assistant Harrison helps too.
+---
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCIGA3033
+Date: May 18th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: What sets Professor Bari apart is not only his deep expertise, but also his passion for applying AI to solve real-world current problems. I highly recommend taking this seminar to any student serious about pursuing AI or data science. It's a rare opportunity to learn from a world-class professor and leader in the field.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA3033
+Date: Jan 24th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Professor Bari is awesome! Very coherent at explaining concepts and can guide students in a very organized manner. Definitely recommend.
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCIGA3033
+Date: Apr 9th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Review: Bari will make you work, but you will learn so much. The class is tough ,but rewarding. And he's funny.
+---
+Quality: 4.0
+Difficulty: 4.0
+Course: CSCIGA3033
+Date: Jan 24th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Review: Took Predictive Analytics and really enjoyed the class. Would've liked better overall structure and more focus (frequent unnecessary tasks that distracted from the core material imho). Otherwise solid introduction to many common PA tools/algorithms and a great chance to learn about the field. Lots of applied text mining (in Java). Thumbs up!
+---
+Quality: 3.0
+Difficulty: 4.0
+Course: CSCIGA3033
+Date: Jan 22nd, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+Review: Know Java! /Students may need to do a lot of self-teaching outside of class if coming in without a cs/analytics background (the professor teaches very fast, mostly with material from the readings)/ He is very busy - prepare for long office hour lines, but he's not very helpful/ He cares a lot about your learning process and is very understanding
+---
+Quality: 3.0
+Difficulty: 1.0
+Course: CSCIGA3033
+Date: Jul 10th, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: Yes
+Review: I do not recommend that students who are serious about being real data scientists take this course. This course would be much better suited at the undergraduate level as an introduction to the world of Big Data. However, he does teach you the business aspects of data science well (which can be learned on the job anyway).
+---
+Quality: 3.5
+Difficulty: 4.0
+Course: CSCIGA3033
+Date: Dec 24th, 2015
+For Credit: Yes
+Textbook: No
+Review: This is the first semester he is teaching at NYU. I took Predictive Analytics under him. He is a very nice professor, and has many office hrs. Since it was his first time teaching at NYU, the class was unstructured, and we didn't really learn many topics in the class. Involves a lot of work.
+---

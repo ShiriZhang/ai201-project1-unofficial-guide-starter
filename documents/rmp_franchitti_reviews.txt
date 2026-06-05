@@ -1,0 +1,136 @@
+Professor: Jean-Claude Franchitti - NYU Courant Computer Science
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCAGA2433
+Date: Jan 20th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review: You'll be required to read a chapter per week, and there will be both weekly lab and lecture hw. He stands behind a PC and speaks the entire lecture nonstop. Avoid.
+---
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCAGA2433
+Date: Dec 28th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Review: Very poor lecturer (whisper-reads off slides in a monotone). Disorganized in course administration. Slow grader. Bad midterm creator. Projects are too ambiguous. Takes on avg 5-6 emails to respond. Course content is at times outdated. I would avoid taking his database course. Likely the worst professor I've had at NYU. No redeeming qualities.
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCAGA2433
+Date: Aug 8th, 2024
+For Credit: Yes
+Review: - constant use of buzzwords that make it really hard to take away meaning - explains how to do project steps only after they're due - powerpoints are just ten billion bullets Not good!
+---
+Quality: 3.0
+Difficulty: 3.0
+Course: CSCAGA2433
+Date: Jan 17th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Good class, covers various database related topics.
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCAGA2433
+Date: Jan 17th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: The coursework is great, especially the group project is challenging, intensive and end to end which brushes up all the major technologies, and we end up pulling together a real-life worthy solution. Professor also gives fair grading with many extra credit opportunities. Have taken a couple of courses under the same professor, next semester too.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCAGA2433
+Date: Jan 10th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: I really enjoyed prof. Franchitti's database systems course. Both the lectures and homeworks cover a large amount of material and take some time to work through. However, the professor is incredibly helpful and accessible. Make sure to ask questions during the office hours and avoid postponing assignments / projects. Really insightful class!
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCAGA2433
+Date: Dec 4th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Review: Would rate 0 if possible. Before taking his class, consider: 1. Each lecture purely reading 100+ page PPTs. 2. Monotonous lectures akin to mumbling. 3. Super super unclear group project guidelines, with no updates, even wanna waste time during lecture to ask students doubts on it. Just listing out facts here. The worst prof and class ever met.
+---
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCI2262DCN
+Date: May 4th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review: This was a very disappointing class. Franchitti is knowledgeable and has experience in networking, however he is checked out and is very hard to reach outside of class. The TAs are AWOL. Assignments are outdated and involve at least 10-20 hours a week. The final project doesn't seem to have been updated since 2014...
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI2262DCN
+Date: Oct 12th, 2025
+For Credit: Yes
+Would Take Again: Yes
+Grade: A
+Review: Professor Franchitti is a very good professor, he is accomodatting and accessible outside class. He is very willing to help students if reaching out, and he would spend time outside class with students to help them succeed.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI2262DCN
+Date: May 17th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: Professer JCF is the most caring professor I've ever met, his understanding had helped me so many times to overcome my tough situation. Homeworks and labs are a little bit hard but all have clear instructions in the documents, really helpful.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI2262DCN
+Date: Jan 7th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Professor Franchitti's class is highly recommended. While the workload can be demanding, he is supportive with deadlines and grading criteria. He is always available to answer specific questions. However, if you lack the necessary background knowledge, expect to invest extra time in self-study, but this is understandable for an advanced course.
+---
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCI2262DCN
+Date: Jun 2nd, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Review: He is a caring professor, but his explaination is not very good. The labs are somewhat worth spending time, but the homeworks are really heavy and some problems are nothing related to the material covered in class. The final project is a nightmare... The TAs are so arrogant and not helpful at all.
+---
+Quality: 4.0
+Difficulty: 4.0
+Course: CSCI2262DCN
+Date: May 29th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Not an easy course but you learn a ton! I learned so much about the world of networks! It was hard to reach the professor via email, but if you catch him after class, he will spend time with you to share his knowledge. Good guy and interesting course... the final project was one of the most challenging things I've done at NYU. Very generous grader!
+---

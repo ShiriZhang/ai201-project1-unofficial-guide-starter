@@ -1,0 +1,114 @@
+Professor: Yang Tang - NYU Courant Computer Science
+---
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI2436
+Date: May 7th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Review: Dude, why to keep online exams if you are so much suspicious about so many things. He got angried in the class so many times, lol even on the microphone and he doesn't interact with the students at all. What is the use of his knowledge and even the class, when it feels like emotion-less person is speaking. Don't even want to go towards his accent.
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: Dec 18th, 2024
+Would Take Again: Yes
+Review: Idk if I got the course code right. I took his grad OS course, which is pretty tough but you learn absolutely nothing from an easy OS course. Loved it. His labs are fun, and his exams are structured very very well.
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2436
+Date: Aug 19th, 2023
+Would Take Again: Yes
+Online Class: Yes
+Review: Class starts off easy, but the workload ramps up after the midterm. The project itself is a lot of work, and the final was MUCH harder than the midterm was. I only recommend the class because what you'll be learning is very marketable but, beware, this is not an easy A class. If you want an easy A class with a light workload, take something else
+---
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCIGA2250
+Date: Jun 17th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: F
+Textbook: Yes
+Review: He saved my life.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2250
+Date: May 3rd, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Prof. Tang goes above and beyond to make the course an enjoyable learning experience. The quality of the slides, homework, labs, and exams is excellent. I am really happy I took this course and I look forward to taking Prof. Tang's courses again in the coming semesters!
+---
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCIGA2250
+Date: May 3rd, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: Excellent materials and lectures. The professor is always very helpful, I have learned a lot from this course. But labs are really hard, many thanks to OpenAI.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI2436
+Date: Mar 3rd, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Review: One of the best professors. Up-to-date slides; clear lectures; good hw with clear instructions; help with programming and intuitively understand system design; has professional experience; help you get job; always willing and available to answer your questions; very funny and generous; care about your feelings as well. Can't hope for more.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI2436
+Date: Jan 10th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: Yes
+Review: This is a great intro class to learn about data analytics and the underlying system design. Unlike classes that just feed to your mouth and teach you those techniques only. Professor Tang's class actually takes you through a journey in understanding what is there, why is so and how better. This way, it prepares you to think like a data scientist.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2250
+Date: Jan 9th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: Yes
+Review: The labs are great practice and can be very helpful for technical interviews. If you put effort and time into them, you will find them great investments. The materials could feel challenging for people with less experience, but that is just a fact for OS in general. You can almost find help from the professor 24/7 during office hour or via discord.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCIGA2250
+Date: Jan 9th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: Yes
+Review: Professor Tang is extremely caring for his students and passionate about teaching. He is always open to students with questions or willing to dig deeper into the topic. His lectures are fun and engaging. You can tell that he puts a lot of effort into making his lecture notes clear.
+---
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI2436
+Date: Dec 29th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review: He is a great professor to take at NYU grad. His lectures are very informative and have a variety of useful concepts covered, the knowledge will be very useful for your career. Homework is pretty easy, but the exams need a deep understanding of his materials. You need to put in some effort for a good grade.
+---
