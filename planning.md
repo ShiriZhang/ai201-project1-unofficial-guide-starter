@@ -106,9 +106,9 @@ Use delimiter-based chunking strategy to split documents into chunks. Each chunk
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Formatting issues in dirty data/documents: for example the metadata of reviews is misspelled or even missing, which may cause field extraction errors during chunking and corrupt the metadata in ChromaDB
 
-2.
+2. Uneven retrieval for comparison-based questions: Evaluation Question 5 requires both professors' reviews to rank in the top-k; fixing k=5 may favor one side but ignore the other, resulting in a lopsided comparison.
 
 ---
 
