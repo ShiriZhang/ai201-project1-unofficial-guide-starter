@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+Domain: Real rate my professor (RMP) reviews from students in NYU Courant's graduate computer science program.
+
+Why valuable?: You cannot find information below through official channels like - whether the exams of certain courses will be graded on a curve, how many hours of homework you'll have each week, whether TAs are helpful, or how clear the professors' lectures are.
+
 ---
 
 ## Documents
@@ -18,18 +22,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source | Description                   | URL or location                                    |
+| --- | ------ | ----------------------------- | -------------------------------------------------- |
+| 1   | RMP    | Prof Bari's RMP reviews       | https://www.ratemyprofessors.com/professor/2094203 |
+| 2   | RMP    | Prof Bethe's RMP reviews      | https://www.ratemyprofessors.com/professor/2733433 |
+| 3   | RMP    | Prof Dodis's RMP reviews      | https://www.ratemyprofessors.com/professor/1617817 |
+| 4   | RMP    | Prof Franchitti's RMP reviews | https://www.ratemyprofessors.com/professor/1528605 |
+| 5   | RMP    | Prof Franke's RMP reviews     | https://www.ratemyprofessors.com/professor/1941851 |
+| 6   | RMP    | Prof Plock's RMP reviews      | https://www.ratemyprofessors.com/professor/1776202 |
+| 7   | RMP    | Prof Shasha's RMP reviews     | https://www.ratemyprofessors.com/professor/539405  |
+| 8   | RMP    | Prof Tang's RMP reviews       | https://www.ratemyprofessors.com/professor/2738155 |
+| 9   | RMP    | Prof Yap's RMP reviews        | https://www.ratemyprofessors.com/professor/419998  |
+| 10  | RMP    | Prof Zahran's RMP reviews     | https://www.ratemyprofessors.com/professor/1743821 |
 
 ---
 
@@ -71,13 +75,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question                                                                                                        | Expected answer |
+| --- | --------------------------------------------------------------------------------------------------------------- | --------------- |
+| 1   | How do students think about the workload for Prof Dodis's fundamental algorithm course?                         |                 |
+| 2   | Why are the reviews of Prof Yap's students so polarized?                                                        |                 |
+| 3   | Which professor's course uses a grading curve?                                                                  |                 |
+| 4   | What are the main complaints students have about Prof Bethe's class?                                            |                 |
+| 5   | If I want to learn operating system, what's the difference between Prof Tang's course and Prof Franke's course? |                 |
 
 ---
 

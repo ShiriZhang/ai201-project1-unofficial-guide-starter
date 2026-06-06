@@ -2,7 +2,7 @@ Professor: Paul Bethe - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 4.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Apr 28th, 2023
 For Credit: Yes
 Attendance: Mandatory
@@ -11,7 +11,7 @@ Review: DO NOT TAKE THIS CLASS. Material is bad, he comes to class unprepared, h
 ---
 Quality: 3.0
 Difficulty: 3.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Nov 21st, 2022
 For Credit: Yes
 Attendance: Not Mandatory
@@ -21,7 +21,7 @@ Review: This course is not well prepared
 ---
 Quality: 1.0
 Difficulty: 3.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Jan 4th, 2022
 For Credit: Yes
 Would Take Again: No
@@ -30,7 +30,7 @@ Review: Worst professor ever. You can see his lack of preparation in every class
 ---
 Quality: 1.0
 Difficulty: 3.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Jan 4th, 2022
 For Credit: Yes
 Attendance: Not Mandatory
@@ -41,7 +41,7 @@ Review: Worst class I've ever taken. Paul is an awful professor. Most of the tim
 ---
 Quality: 1.0
 Difficulty: 3.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Nov 18th, 2021
 For Credit: Yes
 Attendance: Not Mandatory
@@ -51,7 +51,7 @@ Review: In most lectures, he sounds like he's confused and unprepared to explain
 ---
 Quality: 1.0
 Difficulty: 3.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Nov 14th, 2021
 For Credit: Yes
 Attendance: Not Mandatory
@@ -62,7 +62,7 @@ Review: The worst class took in my life TBH. No slides, no correct answers on th
 ---
 Quality: 2.0
 Difficulty: 3.0
-Course: CSCIGA2560
+Course: CSCIGA2560 Artificial Intelligence
 Date: Nov 6th, 2021
 For Credit: Yes
 Attendance: Not Mandatory

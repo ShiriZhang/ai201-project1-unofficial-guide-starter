@@ -2,7 +2,7 @@ Professor: Yevgeniy Dodis - NYU Courant Computer Science
 ---
 Quality: 4.0
 Difficulty: 3.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Jan 11th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -13,7 +13,7 @@ Review: Accent is a bit hard to understand. Handwriting is bad. VERY assignment-
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 15th, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -23,7 +23,7 @@ Review: This never seen an instruction team with lower work ethics. Professor do
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: May 23rd, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -33,7 +33,7 @@ Review: illegible lecture note scribbles; tedious weekly assignments with endles
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Jan 22nd, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -42,7 +42,7 @@ Review: total waste of time
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Jan 21st, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -52,7 +52,7 @@ Review: Only useful if you want to specialize in this field. Other instructors g
 ---
 Quality: 1.0
 Difficulty: 4.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 7th, 2023
 Attendance: Not Mandatory
 Grade: Rather not say
@@ -61,7 +61,7 @@ Review: Very hard to understand him. Awful handwriting. Didn't learn a single th
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Nov 16th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -71,7 +71,7 @@ Review: He is a good professor if you could accept: 10-hour homework each week. 
 ---
 Quality: 4.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Sep 26th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -81,7 +81,7 @@ Review: Nice course and nice professor. but very difficult.
 ---
 Quality: 3.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Nov 21st, 2022
 For Credit: Yes
 Attendance: Not Mandatory
@@ -92,7 +92,7 @@ Review: Focuses on the proofs of algorithms
 ---
 Quality: 4.0
 Difficulty: 4.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: May 27th, 2021
 For Credit: Yes
 Attendance: Not Mandatory

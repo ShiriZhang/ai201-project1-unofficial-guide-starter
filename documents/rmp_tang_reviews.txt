@@ -2,7 +2,7 @@ Professor: Yang Tang - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCI2436
+Course: CSCI2436 Realtime & Big Data Analytics
 Date: May 7th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -12,14 +12,14 @@ Review: Dude, why to keep online exams if you are so much suspicious about so ma
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 18th, 2024
 Would Take Again: Yes
 Review: Idk if I got the course code right. I took his grad OS course, which is pretty tough but you learn absolutely nothing from an easy OS course. Loved it. His labs are fun, and his exams are structured very very well.
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2436
+Course: CSCIGA2436 Realtime & Big Data Analytics
 Date: Aug 19th, 2023
 Would Take Again: Yes
 Online Class: Yes
@@ -27,7 +27,7 @@ Review: Class starts off easy, but the workload ramps up after the midterm. The 
 ---
 Quality: 5.0
 Difficulty: 5.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Jun 17th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -38,7 +38,7 @@ Review: He saved my life.
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: May 3rd, 2023
 For Credit: Yes
 Attendance: Mandatory
@@ -49,7 +49,7 @@ Review: Prof. Tang goes above and beyond to make the course an enjoyable learnin
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: May 3rd, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -60,7 +60,7 @@ Review: Excellent materials and lectures. The professor is always very helpful, 
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2436
+Course: CSCI2436 Realtime & Big Data Analytics
 Date: Mar 3rd, 2023
 For Credit: Yes
 Attendance: Mandatory
@@ -70,7 +70,7 @@ Review: One of the best professors. Up-to-date slides; clear lectures; good hw w
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2436
+Course: CSCI2436 Realtime & Big Data Analytics
 Date: Jan 10th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -81,7 +81,7 @@ Review: This is a great intro class to learn about data analytics and the underl
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Jan 9th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -92,7 +92,7 @@ Review: The labs are great practice and can be very helpful for technical interv
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Jan 9th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -103,7 +103,7 @@ Review: Professor Tang is extremely caring for his students and passionate about
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2436
+Course: CSCI2436 Realtime & Big Data Analytics
 Date: Dec 29th, 2022
 For Credit: Yes
 Attendance: Mandatory

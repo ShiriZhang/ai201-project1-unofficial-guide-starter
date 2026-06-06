@@ -2,7 +2,7 @@ Professor: Dennis Shasha - NYU Courant Computer Science
 ---
 Quality: 4.0
 Difficulty: 2.0
-Course: CSCIGA2434
+Course: CSCIGA2434 Advanced Database Systems
 Date: May 5th, 2021
 For Credit: Yes
 Attendance: Not Mandatory
@@ -13,7 +13,7 @@ Review: What I like most about Shasha is that he records every course even befor
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2433
+Course: CSCIGA2433 Database Systems
 Date: Feb 13th, 2020
 For Credit: Yes
 Attendance: Not Mandatory
@@ -24,7 +24,7 @@ Review: Prof Shasha is a real gem to NYU. He is a very nice professor. I took hi
 ---
 Quality: 5.0
 Difficulty: 2.0
-Course: CSCIGA2433
+Course: CSCIGA2433 Database Systems
 Date: Jan 14th, 2020
 For Credit: Yes
 Would Take Again: Yes
@@ -34,7 +34,7 @@ Review: Took his basic database class. Prof. Shasha is very caring to his studen
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2965
+Course: CSCIGA2965 Heuristic Problem Solving
 Date: Jul 25th, 2019
 For Credit: Yes
 Attendance: Mandatory
@@ -45,7 +45,7 @@ Review: Prof. Shasha is one of the best. The course Adv DB was a combination of 
 ---
 Quality: 3.0
 Difficulty: 3.0
-Course: CSCIGA2434
+Course: CSCIGA2434 Advanced Database Systems
 Date: Nov 7th, 2018
 For Credit: Yes
 Attendance: Not Mandatory
@@ -55,7 +55,7 @@ Review: Have him for Adv. Databases, which covers concurrency + recovery and tun
 ---
 Quality: 5.0
 Difficulty: 5.0
-Course: CSCIGA2965
+Course: CSCIGA2965 Heuristic Problem Solving
 Date: Jan 18th, 2018
 For Credit: Yes
 Attendance: Not Mandatory
@@ -66,7 +66,7 @@ Review: Best cousre I've done so far. But be prepared to code a lot and design a
 ---
 Quality: 4.5
 Difficulty: 4.0
-Course: CSCIGA2965
+Course: CSCIGA2965 Heuristic Problem Solving
 Date: Sep 1st, 2015
 For Credit: Yes
 Grade: A
@@ -75,14 +75,14 @@ Review: Great professor who knows a lot about database systems and teach the cou
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2965
+Course: CSCIGA2965 Heuristic Problem Solving
 Date: Dec 15th, 2013
 Textbook: No
 Review: Amazing professor! Everyone who likes problem solving and knows some coding needs to take this class! Its an opportunity of a lifetime. I am so happy with the class that I don't even care what grade do I get. I learnt more than I could have in any other class.
 ---
 Quality: 1.0
 Difficulty: 1.0
-Course: CSCIGA2434
+Course: CSCIGA2434 Advanced Database Systems
 Oct 14th, 2019
 For Credit: Yes
 Attendance: Not Mandatory
@@ -93,7 +93,7 @@ Review: Assignment given has no correlation with the content covered in the clas
 ---
 Quality: 1.0
 Difficulty: 1.0
-Course: CSCIGA2434
+Course: CSCIGA2434 Advanced Database Systems
 Date: Oct 14th, 2019
 For Credit: Yes
 Attendance: Not Mandatory
@@ -104,7 +104,7 @@ Review: This course is totally flawed. He gives the same assignment and that too
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2434
+Course: CSCIGA2434 Advanced Database Systems
 Date: Jul 26th, 2019
 For Credit: Yes
 Attendance: Not Mandatory

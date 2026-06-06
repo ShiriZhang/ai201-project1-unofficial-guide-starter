@@ -2,7 +2,7 @@ Professor: Hubertus Franke - NYU Courant Computer Science
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: May 4th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -13,7 +13,7 @@ Review: Prof. Franke is a legend. Lectures are very rich and he works hard to en
 ---
 Quality: 2.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 19th, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -23,7 +23,7 @@ Review: This class is unnecessarily difficult. Lectures are rushed with an exces
 ---
 Quality: 3.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 18th, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -34,7 +34,7 @@ Review: Lab instructions are messy despite being a big grade %. The slides too, 
 ---
 Quality: 2.0
 Difficulty: 5.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 17th, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -44,7 +44,7 @@ Review: Tough class, labs are tough exams are a different breed with negative ma
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 8th, 2025
 For Credit: Yes
 Attendance: Mandatory
@@ -55,7 +55,7 @@ Review: Prof Franke is awesome. 10/10 recommend taking his OS class. Labs are ex
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: May 22nd, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -66,7 +66,7 @@ Review: Very lenient and responsive almost 24/7 on discord, heard from other cla
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Mar 16th, 2025
 For Credit: Yes
 Attendance: Mandatory
@@ -76,14 +76,14 @@ Review: Gives a very generous curve for Mid-terms and Finals (over 50% of the cl
 ---
 Quality: 3.0
 Difficulty: 5.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 28th, 2024
 For Credit: Yes
 Review: Professor is always willing to help and will do anything to make sure students succeed. Very honest and blunt, but it helps with the learning process. Lectures are fast-paced but harder to understand. Recommended if up for the challenge.
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 25th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -94,7 +94,7 @@ Review: Best systems course i've taken so far. - Big, clearly graded and very he
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: Dec 11th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -105,7 +105,7 @@ Review: His assignments and exams are hard. Dont use AI because you will actuall
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA2250
+Course: CSCIGA2250 Operating Systems
 Date: May 20th, 2024
 For Credit: Yes
 Attendance: Not Mandatory

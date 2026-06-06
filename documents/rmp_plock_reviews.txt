@@ -2,7 +2,7 @@ Professor: Cory Plock - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: May 24th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -11,7 +11,7 @@ Review: Mandatory hurdle. Outdated curriculum (Prolog, SML/NJ, Scheme). Prof abd
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: May 22nd, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -22,7 +22,7 @@ Review: Extremely eloquent articulation, which is helpful for non-native English
 ---
 Quality: 4.0
 Difficulty: 5.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Apr 12th, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -33,7 +33,7 @@ Review: He teaches well, but his tests were too hard. Maybe because they're open
 ---
 Quality: 2.0
 Difficulty: 4.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Feb 23rd, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -42,7 +42,7 @@ Reviews: Lectures are quite dry and boring , and there is way too much homework
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Jan 28th, 2025
 For Credit: Yes
 Attendance: Mandatory
@@ -52,7 +52,7 @@ Review: I took PL with Professor Plock and it was a great experience. He is an e
 ---
 Quality: 4.0
 Difficulty: 4.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Jun 13th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -62,7 +62,7 @@ Review: I took his PL and his class was fine. The topic is boring so you can't r
 ---
 Quality: 4.0
 Difficulty: 5.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Jun 4th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -73,7 +73,7 @@ Review: Very nice person but the course is way too hard! But at least if you ace
 ---
 Quality: 5.0
 Difficulty: 4.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Jan 18th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -84,7 +84,7 @@ Review: He is knowledgable and experienced. But getting high marks in his class 
 ---
 Quality: 5.0
 Difficulty: 5.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Dec 25th, 2021
 For Credit: Yes
 Would Take Again: Yes
@@ -94,7 +94,7 @@ Review: While this subject matter was (for me) quite difficult, Professor Plock 
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA2110
+Course: CSCIGA2110 Programming Languages
 Date: Jul 11th, 2021
 For Credit: Yes
 Attendance: Not Mandatory

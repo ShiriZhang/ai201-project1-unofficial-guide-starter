@@ -2,7 +2,7 @@ Professor: Chee Yap - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Mar 7th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -12,7 +12,7 @@ Review: Giving a 1 because this platform does not allow a 0 rating. Avoid!
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Feb 6th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -21,7 +21,7 @@ Review: Rip in advance to all those taking the course this semester. If you thin
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Mar 5th, 2025
 For Credit: Yes
 Attendance: Mandatory
@@ -30,7 +30,7 @@ Review: I think he's too old to teach now, confused all the time, im sure he was
 ---
 Quality: 2.0
 Difficulty: 4.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 26th, 2024
 For Credit: Yes
 Attendance: Mandatory
@@ -40,7 +40,7 @@ Review: Despite the depth provided by the notes, Prof Yap makes it no easier to 
 ---
 Quality: 5.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 25th, 2024
 For Credit: Yes
 Attendance: Mandatory
@@ -50,7 +50,7 @@ Review: I don't understand why so many students gave low ratings. He is clearly 
 ---
 Quality: 5.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 18th, 2024
 For Credit: Yes
 Attendance: Mandatory
@@ -62,7 +62,7 @@ Review: If you do wanna learn and train your brain, I recommend to choose Profes
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course:CSCIGA1170
+Course:CSCIGA1170 Fundamental Algorithms
 Date: Dec 16th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -71,7 +71,7 @@ Review: Very messy organization.
 ---
 Quality: 3.0
 Difficulty: 3.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Oct 27th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -82,7 +82,7 @@ Review: Prof is ok. Just prepare to study and ask for help.
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Jun 24th, 2023
 For Credit: Yes
 Attendance: Mandatory
@@ -92,7 +92,7 @@ Review: Just avoid him. His lectures are extremely boring. Instead of using a te
 ---
 Quality: 4.0
 Difficulty: 5.0
-Course: CSCIGA1170
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 23rd, 2022
 For Credit: Yes
 Attendance: Not Mandatory
