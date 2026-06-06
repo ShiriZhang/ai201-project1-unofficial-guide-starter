@@ -11,9 +11,9 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
-Domain: Real rate my professor (RMP) reviews from students in NYU Courant's graduate computer science program.
+- Domain: Real rate my professor (RMP) reviews from students in NYU Courant's graduate computer science program.
 
-Why valuable?: You cannot find information below through official channels like - whether the exams of certain courses will be graded on a curve, how many hours of homework you'll have each week, whether TAs are helpful, or how clear the professors' lectures are.
+- Why valuable?: You cannot find information below through official channels like - whether the exams of certain courses will be graded on a curve, how many hours of homework you'll have each week, whether TAs are helpful, or how clear the professors' lectures are.
 
 ---
 
