@@ -35,6 +35,10 @@
 | 9   | RMP    | Prof Yap's RMP reviews        | https://www.ratemyprofessors.com/professor/419998  |
 | 10  | RMP    | Prof Zahran's RMP reviews     | https://www.ratemyprofessors.com/professor/1743821 |
 
+**Preprocessing:**
+All documents were manually copied from Rate My Professor (RMP) website. Navigation links and ads were removed during manual copying, leaving almost no HTML; Reviews were split into chunks using "---" as a separator, and fields such as Quality / Difficulty / Course / Date were extracted from each review. These fields are retained in the chunk body (for semantic retrieval and LLM use) and are also stored separately in ChromaDB metadata, along with the source filename and chunk
+position (to meet attribution requirements and prepare for metadata-based scoring).
+
 ---
 
 ## Chunking Strategy
@@ -52,7 +56,10 @@ Use delimiter-based chunking strategy to split documents into chunks. Each chunk
 **Reasoning:**
 
 - I use delimiter-based chunking strategy because in each document, each review entry is explicitly delimited by `---`.
+
 - The overlap is set to 0 because in each document, the delimiter is naturally set to be `---` which means after delimiter-based chunking, each chunk corresponds exactly to a single review entry. If I chunk with overlap, one good review entry might be mixed with its adjacent bad review entry.
+
+**Final chunk count:** ~100–110 (approximate; confirmed after Milestone 3)
 
 ---
 
@@ -64,11 +71,15 @@ Use delimiter-based chunking strategy to split documents into chunks. Each chunk
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers. Why is it sufficient? A chunk consists of a single short review entry, which is well below the model’s input limit of approximately 256 tokens and will not be truncated. The model is small, can be run locally, requires no API key or rate limits, and performs robustly on general English semantic similarity tasks. Since the documents consists of general English student comments with no obscure domain-specific text, it is sufficient.
 
-**Top-k:**
+**Top-k:** Initial k=5. The reasoning is most queries take the form of "Professor X has attribute Y," and relevant reviews are typically limited to a few entries. A value of k=5 captures the mainstream sentiment without unduly diluting the results; with only about 110 chunks in the corpus, setting k too high would significantly reduce the signal-to-noise ratio. The final value will be fine-tuned after reviewing the actual search results in Milestone 4.
 
 **Production tradeoff reflection:**
+
+- Multilingual Embedding Model: Since the users are mostly NYU master students which include many international students, a multilingual model is preferred to deal with non-english queries if deployed in future. But the cost is slower inference. Moreover, on purely English tasks, specialized multilingual models sometimes perform worse in terms of single-language accuracy than comparable English-only models (since they allocate computational resources across dozens of languages)
+
+- Domain Accuracy: Since the documents contain terms/jargons in computer science, NYU course codes and some abbreviations like PL, OS, HW, a larger model fine-tuned for academic texts is preferred if deployed in future. The trade-offs are slower performance with higher resource consumption. In addition, models fine-tuned for academic texts may not fully grasp colloquial student reviews (slang, abbreviations, sarcastic tone) found in RMP, as the domains do not fully align.
 
 ---
 
