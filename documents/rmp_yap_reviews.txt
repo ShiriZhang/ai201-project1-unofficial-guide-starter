@@ -62,7 +62,7 @@ Review: If you do wanna learn and train your brain, I recommend to choose Profes
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course:CSCIGA1170 Fundamental Algorithms
+Course: CSCIGA1170 Fundamental Algorithms
 Date: Dec 16th, 2024
 For Credit: Yes
 Attendance: Not Mandatory

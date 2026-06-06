@@ -2,7 +2,7 @@ Professor: Jean-Claude Franchitti - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Jan 20th, 2026
 For Credit: Yes
 Attendance: Mandatory
@@ -12,7 +12,7 @@ Review: You'll be required to read a chapter per week, and there will be both we
 ---
 Quality: 1.0
 Difficulty: 4.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Dec 28th, 2025
 For Credit: Yes
 Attendance: Not Mandatory
@@ -22,14 +22,14 @@ Review: Very poor lecturer (whisper-reads off slides in a monotone). Disorganize
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Aug 8th, 2024
 For Credit: Yes
 Review: - constant use of buzzwords that make it really hard to take away meaning - explains how to do project steps only after they're due - powerpoints are just ten billion bullets Not good!
 ---
 Quality: 3.0
 Difficulty: 3.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Jan 17th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -40,7 +40,7 @@ Review: Good class, covers various database related topics.
 ---
 Quality: 5.0
 Difficulty: 5.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Jan 17th, 2024
 For Credit: Yes
 Attendance: Mandatory
@@ -51,7 +51,7 @@ Review: The coursework is great, especially the group project is challenging, in
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Jan 10th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -62,7 +62,7 @@ Review: I really enjoyed prof. Franchitti's database systems course. Both the le
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCAGA2433 Database Systems
+Course: CSCIGA2433 Database Systems
 Date: Dec 4th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -72,7 +72,7 @@ Review: Would rate 0 if possible. Before taking his class, consider: 1. Each lec
 ---
 Quality: 1.0
 Difficulty: 4.0
-Course: CSCI2262 Data Communications and Networks
+Course: CSCIGA2262 Data Communications and Networks
 Date: May 4th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -82,7 +82,7 @@ Review: This was a very disappointing class. Franchitti is knowledgeable and has
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2262 Data Communications and Networks
+Course: CSCIGA2262 Data Communications and Networks
 Date: Oct 12th, 2025
 For Credit: Yes
 Would Take Again: Yes
@@ -91,7 +91,7 @@ Review: Professor Franchitti is a very good professor, he is accomodatting and a
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2262 Data Communications and Networks
+Course: CSCIGA2262 Data Communications and Networks
 Date: May 17th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -102,7 +102,7 @@ Review: Professer JCF is the most caring professor I've ever met, his understand
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2262 Data Communications and Networks
+Course: CSCIGA2262 Data Communications and Networks
 Date: Jan 7th, 2024
 For Credit: Yes
 Attendance: Not Mandatory
@@ -113,7 +113,7 @@ Review: Professor Franchitti's class is highly recommended. While the workload c
 ---
 Quality: 2.0
 Difficulty: 4.0
-Course: CSCI2262 Data Communications and Networks
+Course: CSCIGA2262 Data Communications and Networks
 Date: Jun 2nd, 2021
 For Credit: Yes
 Attendance: Not Mandatory
@@ -125,7 +125,7 @@ Review: He is a caring professor, but his explaination is not very good. The lab
 ---
 Quality: 4.0
 Difficulty: 4.0
-Course: CSCI2262 Data Communications and Networks
+Course: CSCIGA2262 Data Communications and Networks
 Date: May 29th, 2019
 For Credit: Yes
 Attendance: Mandatory

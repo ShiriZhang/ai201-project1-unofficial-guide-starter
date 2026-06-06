@@ -2,7 +2,7 @@ Professor: Yang Tang - NYU Courant Computer Science
 ---
 Quality: 1.0
 Difficulty: 5.0
-Course: CSCI2436 Realtime & Big Data Analytics
+Course: CSCIGA2436 Realtime & Big Data Analytics
 Date: May 7th, 2026
 For Credit: Yes
 Attendance: Not Mandatory
@@ -60,7 +60,7 @@ Review: Excellent materials and lectures. The professor is always very helpful, 
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2436 Realtime & Big Data Analytics
+Course: CSCIGA2436 Realtime & Big Data Analytics
 Date: Mar 3rd, 2023
 For Credit: Yes
 Attendance: Mandatory
@@ -70,7 +70,7 @@ Review: One of the best professors. Up-to-date slides; clear lectures; good hw w
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2436 Realtime & Big Data Analytics
+Course: CSCIGA2436 Realtime & Big Data Analytics
 Date: Jan 10th, 2023
 For Credit: Yes
 Attendance: Not Mandatory
@@ -103,7 +103,7 @@ Review: Professor Tang is extremely caring for his students and passionate about
 ---
 Quality: 5.0
 Difficulty: 3.0
-Course: CSCI2436 Realtime & Big Data Analytics
+Course: CSCIGA2436 Realtime & Big Data Analytics
 Date: Dec 29th, 2022
 For Credit: Yes
 Attendance: Mandatory

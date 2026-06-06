@@ -14,7 +14,7 @@ Review: GPU elective course; fair workload; insightful lectures from which every
 Quality: 5.0
 Difficulty: 3.0
 Course: CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming
-Dec 23rd, 2024
+Date: Dec 23rd, 2024
 Would Take Again: Yes
 Grade: A-
 Review: Professor Z is very nice! He makes class interesting and is good at explaining concepts. He will give you many challenges, but that is part of the learning process and its rewarding when you succeed. Lenient grader and encourages students.
