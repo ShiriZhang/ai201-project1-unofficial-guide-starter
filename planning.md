@@ -45,10 +45,14 @@ Why valuable?: You cannot find information below through official channels like 
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+Use delimiter-based chunking strategy to split documents into chunks. Each chunk represents a review entry which includes review metadata and review texts.
 
-**Overlap:**
+**Overlap:** 0 or None
 
 **Reasoning:**
+
+- I use delimiter-based chunking strategy because in each document, each review entry is explicitly delimited by `---`.
+- The overlap is set to 0 because in each document, the delimiter is naturally set to be `---` which means after delimiter-based chunking, each chunk corresponds exactly to a single review entry. If I chunk with overlap, one good review entry might be mixed with its adjacent bad review entry.
 
 ---
 
