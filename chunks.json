@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "rmp_bari_reviews.txt::0",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA3033\nDate: Dec 21st, 2025\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Prof. Bari did an excellent job teaching the AI seminar course. The course was well-structured, engaging, and intellectually rewarding. I gained a strong understanding of AI fundamentals and would highly recommend this class. He is an excellent educator.",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 0,
+      "professor": "Anasse Bari",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA3033",
+      "date": "Dec 21st, 2025"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::1",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA3033\nDate: Aug 25th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Prof. Bari is extremely responsible and dedicated. He is always to ensure that students understand the materials. His clear communication and willingness to help others had a significant positive impact on my learning experience. I love Prof. Bari, he is the best!!",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 1,
+      "professor": "Anasse Bari",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA3033",
+      "date": "Aug 25th, 2025"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::2",
+    "text": "Quality: 5.0\nDifficulty: 2.0\nCourse: CSCIGA3033\nDate: Aug 25th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: B+\nTextbook: Yes\nOnline Class: Yes\nReview: Professor Bari is super supportive! His grad summer class on predictive analytics and generative AI was one of the clearest and most valuable learning experiences I've had at NYU. He shares practical resources, gives detailed feedback, and is patient with questions. Even across time zones, he makes accommodations. His assistant Harrison helps too.",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 2,
+      "professor": "Anasse Bari",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "CSCIGA3033",
+      "date": "Aug 25th, 2025"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::3",
+    "text": "Quality: 5.0\nDifficulty: 2.0\nCourse: CSCIGA3033\nDate: May 18th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: What sets Professor Bari apart is not only his deep expertise, but also his passion for applying AI to solve real-world current problems. I highly recommend taking this seminar to any student serious about pursuing AI or data science. It's a rare opportunity to learn from a world-class professor and leader in the field.",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 3,
+      "professor": "Anasse Bari",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "CSCIGA3033",
+      "date": "May 18th, 2025"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::4",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA3033\nDate: Jan 24th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Professor Bari is awesome! Very coherent at explaining concepts and can guide students in a very organized manner. Definitely recommend.",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 4,
+      "professor": "Anasse Bari",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA3033",
+      "date": "Jan 24th, 2025"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA3033\nDate: Apr 9th, 2019\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: Yes\nReview: Bari will make you work, but you will learn so much. The class is tough ,but rewarding. And he's funny.",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 5,
+      "professor": "Anasse Bari",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA3033",
+      "date": "Apr 9th, 2019"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::6",
+    "text": "Quality: 4.0\nDifficulty: 4.0\nCourse: CSCIGA3033\nDate: Jan 24th, 2018\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: Took Predictive Analytics and really enjoyed the class. Would've liked better overall structure and more focus (frequent unnecessary tasks that distracted from the core material imho). Otherwise solid introduction to many common PA tools/algorithms and a great chance to learn about the field. Lots of applied text mining (in Java). Thumbs up!",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 6,
+      "professor": "Anasse Bari",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA3033",
+      "date": "Jan 24th, 2018"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::7",
+    "text": "Quality: 3.0\nDifficulty: 4.0\nCourse: CSCIGA3033\nDate: Jan 22nd, 2018\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nTextbook: Yes\nReview: Know Java! /Students may need to do a lot of self-teaching outside of class if coming in without a cs/analytics background (the professor teaches very fast, mostly with material from the readings)/ He is very busy - prepare for long office hour lines, but he's not very helpful/ He cares a lot about your learning process and is very understanding",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 7,
+      "professor": "Anasse Bari",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA3033",
+      "date": "Jan 22nd, 2018"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::8",
+    "text": "Quality: 3.0\nDifficulty: 1.0\nCourse: CSCIGA3033\nDate: Jul 10th, 2016\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: A\nTextbook: Yes\nReview: I do not recommend that students who are serious about being real data scientists take this course. This course would be much better suited at the undergraduate level as an introduction to the world of Big Data. However, he does teach you the business aspects of data science well (which can be learned on the job anyway).",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 8,
+      "professor": "Anasse Bari",
+      "quality": 3.0,
+      "difficulty": 1.0,
+      "course": "CSCIGA3033",
+      "date": "Jul 10th, 2016"
+    }
+  },
+  {
+    "id": "rmp_bari_reviews.txt::9",
+    "text": "Quality: 3.5\nDifficulty: 4.0\nCourse: CSCIGA3033\nDate: Dec 24th, 2015\nFor Credit: Yes\nTextbook: No\nReview: This is the first semester he is teaching at NYU. I took Predictive Analytics under him. He is a very nice professor, and has many office hrs. Since it was his first time teaching at NYU, the class was unstructured, and we didn't really learn many topics in the class. Involves a lot of work.",
+    "metadata": {
+      "source": "rmp_bari_reviews.txt",
+      "position": 9,
+      "professor": "Anasse Bari",
+      "quality": 3.5,
+      "difficulty": 4.0,
+      "course": "CSCIGA3033",
+      "date": "Dec 24th, 2015"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::0",
+    "text": "Quality: 1.0\nDifficulty: 4.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Apr 28th, 2023\nFor Credit: Yes\nAttendance: Mandatory\nTextbook: Yes\nReview: DO NOT TAKE THIS CLASS. Material is bad, he comes to class unprepared, his slides are bad and very short, they need to be paired with his handwritten notes. You must go to class and then watch the recording if you want to understand the slides. Homework isn't great, and due every week, labs due every couple weeks, exams are tough. low class avg",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 0,
+      "professor": "Paul Bethe",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Apr 28th, 2023"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::1",
+    "text": "Quality: 3.0\nDifficulty: 3.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Nov 21st, 2022\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: A\nTextbook: N/A\nReview: This course is not well prepared",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 1,
+      "professor": "Paul Bethe",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Nov 21st, 2022"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::2",
+    "text": "Quality: 1.0\nDifficulty: 3.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Jan 4th, 2022\nFor Credit: Yes\nWould Take Again: No\nTextbook: Yes\nReview: Worst professor ever. You can see his lack of preparation in every class, finals and labs are tough, whats even worse is that he refuse to curve the score.",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 2,
+      "professor": "Paul Bethe",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Jan 4th, 2022"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::3",
+    "text": "Quality: 1.0\nDifficulty: 3.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Jan 4th, 2022\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: A-\nTextbook: Yes\nReview: Worst class I've ever taken. Paul is an awful professor. Most of the time he is totally lost in his own class. The extra credit on labs and homewokrs is worth less than 1 point in the entire semester. Grades were given only at the end of the semester. Class notes are uselless and he doesnt even do his own powerpoint presentations. avoid this prof",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 3,
+      "professor": "Paul Bethe",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Jan 4th, 2022"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::4",
+    "text": "Quality: 1.0\nDifficulty: 3.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Nov 18th, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nTextbook: No\nReview: In most lectures, he sounds like he's confused and unprepared to explain the concepts. He writes wrong stuff (wrong calculation by mistake) on the board so it makes it really confusing to follow. Weekly homework and 4 programming projects, where the programming projects are pretty difficult.",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 4,
+      "professor": "Paul Bethe",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Nov 18th, 2021"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::5",
+    "text": "Quality: 1.0\nDifficulty: 3.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Nov 14th, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: Not sure yet\nTextbook: No\nReview: The worst class took in my life TBH. No slides, no correct answers on the blackboard, any BootCamp should be much better.",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 5,
+      "professor": "Paul Bethe",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Nov 14th, 2021"
+    }
+  },
+  {
+    "id": "rmp_bethe_reviews.txt::6",
+    "text": "Quality: 2.0\nDifficulty: 3.0\nCourse: CSCIGA2560 Artificial Intelligence\nDate: Nov 6th, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nTextbook: No\nReview: Lectures are unorganized and there are no slides just some barebones outline, so take notes. Thankfully, we solve problems in class but its never clean and organized, lots of blackboard scribbling and wrong answers. Good thing is homeworks follow closely to lecture, so don't skip class.",
+    "metadata": {
+      "source": "rmp_bethe_reviews.txt",
+      "position": 6,
+      "professor": "Paul Bethe",
+      "quality": 2.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2560 Artificial Intelligence",
+      "date": "Nov 6th, 2021"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::0",
+    "text": "Quality: 4.0\nDifficulty: 3.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Jan 11th, 2026\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Accent is a bit hard to understand. Handwriting is bad. VERY assignment-heavy (weekly, with a break for just one assignment). Overall the course was good though. I enjoyed the analogies used while teaching which made some concepts easier to understand. If you do the HW on your own with minimal outside help, the exams should feel easy.",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 0,
+      "professor": "Yevgeniy Dodis",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Jan 11th, 2026"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::1",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 15th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: A\nTextbook: N/A\nReview: This never seen an instruction team with lower work ethics. Professor does not speak English. The hand writting is ineligible. The homeworks are not explained or graded from exams. They do not release solutions to homework or exams. We cannot see our mistakes. This instruction team go out of their way to prevent us from learning. So irresponsible.",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 1,
+      "professor": "Yevgeniy Dodis",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 15th, 2025"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::2",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: May 23rd, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Not sure yet\nTextbook: N/A\nReview: illegible lecture note scribbles; tedious weekly assignments with endless questions, as if we were only taking his class; terrible management by TA (can look up Spring 2025 session for name), delayed response and release of notes; unclear test questions resulting in ambiguous solutions, quite some students underperformed because of such confusions",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 2,
+      "professor": "Yevgeniy Dodis",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "May 23rd, 2025"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::3",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Jan 22nd, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nTextbook: N/A\nReview: total waste of time",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 3,
+      "professor": "Yevgeniy Dodis",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Jan 22nd, 2024"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::4",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Jan 21st, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Rather not say\nTextbook: N/A\nReview: Only useful if you want to specialize in this field. Other instructors give 2 pages of exam + 1-2 pages of homework while you get 15 pages of exam + 5-6 pages of homework every single week. I don't mind working hard but working hard on this class prevented me to focus on the topics i am actually interested in. Pointless",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 4,
+      "professor": "Yevgeniy Dodis",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Jan 21st, 2024"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::5",
+    "text": "Quality: 1.0\nDifficulty: 4.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 7th, 2023\nAttendance: Not Mandatory\nGrade: Rather not say\nTextbook: N/A\nReview: Very hard to understand him. Awful handwriting. Didn't learn a single thing in the lectures and had to figure out everything myself. My advice is to take this course from someone else. Otherwise you'll waste A LOT of time",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 5,
+      "professor": "Yevgeniy Dodis",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 7th, 2023"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::6",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Nov 16th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Incomplete\nTextbook: Yes\nReview: He is a good professor if you could accept: 10-hour homework each week. Homework answer not posted. 15 pages long midterm exam has to finish in 2 hours. Russian accent. Hard to read handwriting notes.",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 6,
+      "professor": "Yevgeniy Dodis",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Nov 16th, 2023"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::7",
+    "text": "Quality: 4.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Sep 26th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Incomplete\nTextbook: N/A\nReview: Nice course and nice professor. but very difficult.",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 7,
+      "professor": "Yevgeniy Dodis",
+      "quality": 4.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Sep 26th, 2023"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::8",
+    "text": "Quality: 3.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Nov 21st, 2022\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: A\nTextbook: Yes\nOnline Class: Yes\nReview: Focuses on the proofs of algorithms",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 8,
+      "professor": "Yevgeniy Dodis",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Nov 21st, 2022"
+    }
+  },
+  {
+    "id": "rmp_dodis_reviews.txt::9",
+    "text": "Quality: 4.0\nDifficulty: 4.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: May 27th, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: The course will make you work long hours and you'll definitely crib a lot, but it will all be worth it in the end. You get to learn a lot through the HWs which are extremely thorough. The lectures could have been better but the TAs are available at all times to help you out. Take the course if you really want to learn algorithms imo.",
+    "metadata": {
+      "source": "rmp_dodis_reviews.txt",
+      "position": 9,
+      "professor": "Yevgeniy Dodis",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "May 27th, 2021"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::0",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2433 Database Systems\nDate: Jan 20th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nGrade: Rather not say\nTextbook: Yes\nReview: You'll be required to read a chapter per week, and there will be both weekly lab and lecture hw. He stands behind a PC and speaks the entire lecture nonstop. Avoid.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 0,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Jan 20th, 2026"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::1",
+    "text": "Quality: 1.0\nDifficulty: 4.0\nCourse: CSCIGA2433 Database Systems\nDate: Dec 28th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: B\nTextbook: Yes\nReview: Very poor lecturer (whisper-reads off slides in a monotone). Disorganized in course administration. Slow grader. Bad midterm creator. Projects are too ambiguous. Takes on avg 5-6 emails to respond. Course content is at times outdated. I would avoid taking his database course. Likely the worst professor I've had at NYU. No redeeming qualities.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 1,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Dec 28th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::2",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2433 Database Systems\nDate: Aug 8th, 2024\nFor Credit: Yes\nReview: - constant use of buzzwords that make it really hard to take away meaning - explains how to do project steps only after they're due - powerpoints are just ten billion bullets Not good!",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 2,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Aug 8th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::3",
+    "text": "Quality: 3.0\nDifficulty: 3.0\nCourse: CSCIGA2433 Database Systems\nDate: Jan 17th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Good class, covers various database related topics.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 3,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Jan 17th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::4",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA2433 Database Systems\nDate: Jan 17th, 2024\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: The coursework is great, especially the group project is challenging, intensive and end to end which brushes up all the major technologies, and we end up pulling together a real-life worthy solution. Professor also gives fair grading with many extra credit opportunities. Have taken a couple of courses under the same professor, next semester too.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 4,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Jan 17th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2433 Database Systems\nDate: Jan 10th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: I really enjoyed prof. Franchitti's database systems course. Both the lectures and homeworks cover a large amount of material and take some time to work through. However, the professor is incredibly helpful and accessible. Make sure to ask questions during the office hours and avoid postponing assignments / projects. Really insightful class!",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 5,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Jan 10th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::6",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2433 Database Systems\nDate: Dec 4th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Incomplete\nTextbook: Yes\nReview: Would rate 0 if possible. Before taking his class, consider: 1. Each lecture purely reading 100+ page PPTs. 2. Monotonous lectures akin to mumbling. 3. Super super unclear group project guidelines, with no updates, even wanna waste time during lecture to ask students doubts on it. Just listing out facts here. The worst prof and class ever met.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 6,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Dec 4th, 2023"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::7",
+    "text": "Quality: 1.0\nDifficulty: 4.0\nCourse: CSCIGA2262 Data Communications and Networks\nDate: May 4th, 2026\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Not sure yet\nTextbook: Yes\nReview: This was a very disappointing class. Franchitti is knowledgeable and has experience in networking, however he is checked out and is very hard to reach outside of class. The TAs are AWOL. Assignments are outdated and involve at least 10-20 hours a week. The final project doesn't seem to have been updated since 2014...",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 7,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2262 Data Communications and Networks",
+      "date": "May 4th, 2026"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::8",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2262 Data Communications and Networks\nDate: Oct 12th, 2025\nFor Credit: Yes\nWould Take Again: Yes\nGrade: A\nReview: Professor Franchitti is a very good professor, he is accomodatting and accessible outside class. He is very willing to help students if reaching out, and he would spend time outside class with students to help them succeed.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 8,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2262 Data Communications and Networks",
+      "date": "Oct 12th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::9",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2262 Data Communications and Networks\nDate: May 17th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: N/A\nReview: Professer JCF is the most caring professor I've ever met, his understanding had helped me so many times to overcome my tough situation. Homeworks and labs are a little bit hard but all have clear instructions in the documents, really helpful.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 9,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2262 Data Communications and Networks",
+      "date": "May 17th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::10",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2262 Data Communications and Networks\nDate: Jan 7th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Professor Franchitti's class is highly recommended. While the workload can be demanding, he is supportive with deadlines and grading criteria. He is always available to answer specific questions. However, if you lack the necessary background knowledge, expect to invest extra time in self-study, but this is understandable for an advanced course.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 10,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2262 Data Communications and Networks",
+      "date": "Jan 7th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::11",
+    "text": "Quality: 2.0\nDifficulty: 4.0\nCourse: CSCIGA2262 Data Communications and Networks\nDate: Jun 2nd, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: B+\nTextbook: Yes\nOnline Class: Yes\nReview: He is a caring professor, but his explaination is not very good. The labs are somewhat worth spending time, but the homeworks are really heavy and some problems are nothing related to the material covered in class. The final project is a nightmare... The TAs are so arrogant and not helpful at all.",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 11,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2262 Data Communications and Networks",
+      "date": "Jun 2nd, 2021"
+    }
+  },
+  {
+    "id": "rmp_franchitti_reviews.txt::12",
+    "text": "Quality: 4.0\nDifficulty: 4.0\nCourse: CSCIGA2262 Data Communications and Networks\nDate: May 29th, 2019\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Not an easy course but you learn a ton! I learned so much about the world of networks! It was hard to reach the professor via email, but if you catch him after class, he will spend time with you to share his knowledge. Good guy and interesting course... the final project was one of the most challenging things I've done at NYU. Very generous grader!",
+    "metadata": {
+      "source": "rmp_franchitti_reviews.txt",
+      "position": 12,
+      "professor": "Jean-Claude Franchitti",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2262 Data Communications and Networks",
+      "date": "May 29th, 2019"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::0",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2250 Operating Systems\nDate: May 4th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\nReview: Prof. Franke is a legend. Lectures are very rich and he works hard to engage the class. Coursework is not tough if you are good at managing time (gives you 3-4 weeks to complete labs).",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 0,
+      "professor": "Hubertus Franke",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "May 4th, 2026"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::1",
+    "text": "Quality: 2.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 19th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: A\nTextbook: N/A\nReview: This class is unnecessarily difficult. Lectures are rushed with an excessive number of slides and are extremely hard to follow due to the dry teaching style. Exams are hard and rely heavily on a curve, yet no practice problems or study materials are provided. Labs are difficult, and the lab specifications are even harder to understand.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 1,
+      "professor": "Hubertus Franke",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 19th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::2",
+    "text": "Quality: 3.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 18th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Lab instructions are messy despite being a big grade %. The slides too, and there aren't any other study materials aside from the textbook, so you have to guess what will be on the (difficult) exams. Lectures are fine but often rushed/compressed to get through the slides. Curves mean that most won't fail, but structure/organization was lacking.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 2,
+      "professor": "Hubertus Franke",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 18th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::3",
+    "text": "Quality: 2.0\nDifficulty: 5.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 17th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: A\nTextbook: N/A\nReview: Tough class, labs are tough exams are a different breed with negative marking! Takes a few days just to understand the lab details since they are so confusing. Lectures are fast paced and hard to navigate. Curves the exams generously but I don't understand the point of first failing the whole class and then curving the scores.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 3,
+      "professor": "Hubertus Franke",
+      "quality": 2.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 17th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::4",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 8th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: Rather not say\nTextbook: Yes\nReview: Prof Franke is awesome. 10/10 recommend taking his OS class. Labs are extensive but they really help you learn the material and they help you strengthen coding skills. Start them early, get full points and you'll be fine. Exams are tough but labs are more important for your grade.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 4,
+      "professor": "Hubertus Franke",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 8th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: May 22nd, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: N/A\nReview: Very lenient and responsive almost 24/7 on discord, heard from other classmates that he even offered help to debug codes for you; very difficult test questions but curve extremely kindly",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 5,
+      "professor": "Hubertus Franke",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "May 22nd, 2025"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::6",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: Mar 16th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nGrade: A\nTextbook: N/A\nReview: Gives a very generous curve for Mid-terms and Finals (over 50% of the class ends up with A/A- in the end). Just don't mess up your assignments. If you score max pts in all 4, you can screw up your mid-terms and finals and still end up with an A.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 6,
+      "professor": "Hubertus Franke",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Mar 16th, 2025"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::7",
+    "text": "Quality: 3.0\nDifficulty: 5.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 28th, 2024\nFor Credit: Yes\nReview: Professor is always willing to help and will do anything to make sure students succeed. Very honest and blunt, but it helps with the learning process. Lectures are fast-paced but harder to understand. Recommended if up for the challenge.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 7,
+      "professor": "Hubertus Franke",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 28th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::8",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 25th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Best systems course i've taken so far. - Big, clearly graded and very helpful HWs that teach a lot + prof very helpful - Challenging exams, but very generously curved, i mean very - Don't even think of copying - Bottom line, definitely worth it, i've learnt a lot though this course.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 8,
+      "professor": "Hubertus Franke",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 25th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::9",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 11th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: Yes\nReview: His assignments and exams are hard. Dont use AI because you will actually learn if you try it out. The curves are very generous but he has AURA +1000.",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 9,
+      "professor": "Hubertus Franke",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 11th, 2024"
+    }
+  },
+  {
+    "id": "rmp_franke_reviews.txt::10",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2250 Operating Systems\nDate: May 20th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Rather not say\nTextbook: Yes\nReview: Try avoiding this prof",
+    "metadata": {
+      "source": "rmp_franke_reviews.txt",
+      "position": 10,
+      "professor": "Hubertus Franke",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "May 20th, 2024"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::0",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2110 Programming Languages\nDate: May 24th, 2026\nFor Credit: Yes\nAttendance: Not Mandatory\nTextbook: N/A\nReview: Mandatory hurdle. Outdated curriculum (Prolog, SML/NJ, Scheme). Prof abdicates all grading to TAs who deny partial credit and penalize minor pedantic details. Post-semester communication is toxic and defensive; prof sends emails calling regrade or rounding requests \"insulting.\" Final feedback is hidden behind summer Zoom walls. Rigid, unyielding.",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 0,
+      "professor": "Cory Plock",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "May 24th, 2026"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::1",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2110 Programming Languages\nDate: May 22nd, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: N/A\nReview: Extremely eloquent articulation, which is helpful for non-native English speakers; Interesting lecture content with diverse range of topics in different programming languages; Difficult open-book test questions",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 1,
+      "professor": "Cory Plock",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "May 22nd, 2025"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::2",
+    "text": "Quality: 4.0\nDifficulty: 5.0\nCourse: CSCIGA2110 Programming Languages\nDate: Apr 12th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Incomplete\nTextbook: N/A\nReview: He teaches well, but his tests were too hard. Maybe because they're open-book, he tends to test on the extra material he covers outside of the slides in class, so you'll need to take notes of what he said in class, but some of them weren't even mentioned during the lecture.",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 2,
+      "professor": "Cory Plock",
+      "quality": 4.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Apr 12th, 2025"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::3",
+    "text": "Quality: 2.0\nDifficulty: 4.0\nCourse: CSCIGA2110 Programming Languages\nDate: Feb 23rd, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nTextbook: N/A\nReview: Lectures are quite dry and boring , and there is way too much homework",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 3,
+      "professor": "Cory Plock",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Feb 23rd, 2025"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::4",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2110 Programming Languages\nDate: Jan 28th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nTextbook: N/A\nReview: I took PL with Professor Plock and it was a great experience. He is an excellent lecturer and extremely knowledgable about the concepts from years of industry experience, you can learn a lot. The first homework was very challenging but after that they were manageable. He goes above and beyond if you ask for help.",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 4,
+      "professor": "Cory Plock",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Jan 28th, 2025"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::5",
+    "text": "Quality: 4.0\nDifficulty: 4.0\nCourse: CSCIGA2110 Programming Languages\nDate: Jun 13th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: A-\nTextbook: N/A\nReview: I took his PL and his class was fine. The topic is boring so you can't really blame the professor for boring lectures lol. I do feel like the things covered in class are not enough for HWs and tests, and his slides only help so much when it comes to reviewing. Take good notes and actually work on the homework should help. He is a nice person too.",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 5,
+      "professor": "Cory Plock",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Jun 13th, 2024"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::6",
+    "text": "Quality: 4.0\nDifficulty: 5.0\nCourse: CSCIGA2110 Programming Languages\nDate: Jun 4th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: B\nTextbook: N/A\nReview: Very nice person but the course is way too hard! But at least if you ace this course you can learn any language in one day lol",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 6,
+      "professor": "Cory Plock",
+      "quality": 4.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Jun 4th, 2024"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::7",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2110 Programming Languages\nDate: Jan 18th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: He is knowledgable and experienced. But getting high marks in his class isn't easy, and grade reflects well the amount of effort you put in",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 7,
+      "professor": "Cory Plock",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Jan 18th, 2024"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::8",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA2110 Programming Languages\nDate: Dec 25th, 2021\nFor Credit: Yes\nWould Take Again: Yes\nTextbook: Yes\nOnline Class: Yes\nReview: While this subject matter was (for me) quite difficult, Professor Plock gives it an excellent treatment. He is both deeply knowledgeable with regard to the subject matter, and very willing to spend time clarifying concepts beyond the lecture time slot, which was extremely helpful (particularly while taking this online). Definitely recommended.",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 8,
+      "professor": "Cory Plock",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Dec 25th, 2021"
+    }
+  },
+  {
+    "id": "rmp_plock_reviews.txt::9",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2110 Programming Languages\nDate: Jul 11th, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: Rather not say\nTextbook: Yes\nReview: He would ask you to read dozens of pages of textbook every week - yes, he teaches Programming Language, not History or Literature! Unless you don't care about losing points in exams, you have to read them all! Also a lot of homework and very boring lectures.",
+    "metadata": {
+      "source": "rmp_plock_reviews.txt",
+      "position": 9,
+      "professor": "Cory Plock",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2110 Programming Languages",
+      "date": "Jul 11th, 2021"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::0",
+    "text": "Quality: 4.0\nDifficulty: 2.0\nCourse: CSCIGA2434 Advanced Database Systems\nDate: May 5th, 2021\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: What I like most about Shasha is that he records every course even before the pandemic. Also, his speech is very clear. But I don't understand why he likes ReproZip so much. It could be tricky for some students and sometimes even the course assistant don't know what to do.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 0,
+      "professor": "Dennis Shasha",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "CSCIGA2434 Advanced Database Systems",
+      "date": "May 5th, 2021"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::1",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2433 Database Systems\nDate: Feb 13th, 2020\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: B\nTextbook: No\nReview: Prof Shasha is a real gem to NYU. He is a very nice professor. I took his Database systems class. His lectures are good, and his assignments were also good, though his project required a lot of effort. He makes sure that the students understand the material and is also accessible outside the class and clears all the doubts until they are cleared.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 1,
+      "professor": "Dennis Shasha",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Feb 13th, 2020"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::2",
+    "text": "Quality: 5.0\nDifficulty: 2.0\nCourse: CSCIGA2433 Database Systems\nDate: Jan 14th, 2020\nFor Credit: Yes\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: Took his basic database class. Prof. Shasha is very caring to his students and his lectures are well-paced. If he feels that the class didn't understand the material, he would revisit again with further clarifications. The same applies to the homeworks, he makes sure our questions were answered. He is one of the more fun professors to be had at NY",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 2,
+      "professor": "Dennis Shasha",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "CSCIGA2433 Database Systems",
+      "date": "Jan 14th, 2020"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::3",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2965 Heuristic Problem Solving\nDate: Jul 25th, 2019\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: Prof. Shasha is one of the best. The course Adv DB was a combination of theory and applied with challenging hands on assignments. The lectures were informative, entertaining and necessary for the course (massive hints given in lectures). Extremely responsive. Excellent course, worked heard, acquired new skills. Super smart and relaxed.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 3,
+      "professor": "Dennis Shasha",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2965 Heuristic Problem Solving",
+      "date": "Jul 25th, 2019"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::4",
+    "text": "Quality: 3.0\nDifficulty: 3.0\nCourse: CSCIGA2434 Advanced Database Systems\nDate: Nov 7th, 2018\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nTextbook: No\nReview: Have him for Adv. Databases, which covers concurrency + recovery and tuning. Very nice and genial prof, but his proofs and explanations for the cc+r stuff are really messy- I suspect that his understanding of this stuff has gotten rusty over time. His database tuning lectures are noticeably better. I'd recommend teaching yourself the CC+R stuff.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 4,
+      "professor": "Dennis Shasha",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2434 Advanced Database Systems",
+      "date": "Nov 7th, 2018"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA2965 Heuristic Problem Solving\nDate: Jan 18th, 2018\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: Best cousre I've done so far. But be prepared to code a lot and design and implement your own algorithms. There are hardly any lectures and the class is more like a puzzle solving society, but is a lot of nerdy fun.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 5,
+      "professor": "Dennis Shasha",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2965 Heuristic Problem Solving",
+      "date": "Jan 18th, 2018"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::6",
+    "text": "Quality: 4.5\nDifficulty: 4.0\nCourse: CSCIGA2965 Heuristic Problem Solving\nDate: Sep 1st, 2015\nFor Credit: Yes\nGrade: A\nTextbook: No\nReview: Great professor who knows a lot about database systems and teach the course in a way you can understand the material.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 6,
+      "professor": "Dennis Shasha",
+      "quality": 4.5,
+      "difficulty": 4.0,
+      "course": "CSCIGA2965 Heuristic Problem Solving",
+      "date": "Sep 1st, 2015"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::7",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2965 Heuristic Problem Solving\nDate: Dec 15th, 2013\nTextbook: No\nReview: Amazing professor! Everyone who likes problem solving and knows some coding needs to take this class! Its an opportunity of a lifetime. I am so happy with the class that I don't even care what grade do I get. I learnt more than I could have in any other class.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 7,
+      "professor": "Dennis Shasha",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2965 Heuristic Problem Solving",
+      "date": "Dec 15th, 2013"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::8",
+    "text": "Quality: 1.0\nDifficulty: 1.0\nCourse: CSCIGA2434 Advanced Database Systems\nDate: Oct 14th, 2019\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: Not sure yet\nTextbook: No\nReview: Assignment given has no correlation with the content covered in the class. He teaches Aquery in the class for which there is no documentation out there. There are not much examples provided in the slides and examples given are not correct. Total frustration. Strongly recommending to not take this class.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 8,
+      "professor": "Dennis Shasha",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "CSCIGA2434 Advanced Database Systems",
+      "date": "Oct 14th, 2019"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::9",
+    "text": "Quality: 1.0\nDifficulty: 1.0\nCourse: CSCIGA2434 Advanced Database Systems\nDate: Oct 14th, 2019\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: No\nGrade: Incomplete\nTextbook: No\nReview: This course is totally flawed. He gives the same assignment and that too is inspired by his own work. You will learn nothing in this which you can use in general database.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 9,
+      "professor": "Dennis Shasha",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "CSCIGA2434 Advanced Database Systems",
+      "date": "Oct 14th, 2019"
+    }
+  },
+  {
+    "id": "rmp_shasha_reviews.txt::10",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2434 Advanced Database Systems\nDate: Jul 26th, 2019\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nTextbook: Yes\nReview: Professor Shasha is a well respected computer scientist in the academic community and in NY finance. His approach to databases and database tuning is mathematical and built upon sound logic and proofs of database transaction fundamentals. His assignments are a mixture of theoretical (proofs) and practical (Postgres/MySQL/KDB). Hes a great prof.",
+    "metadata": {
+      "source": "rmp_shasha_reviews.txt",
+      "position": 10,
+      "professor": "Dennis Shasha",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2434 Advanced Database Systems",
+      "date": "Jul 26th, 2019"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::0",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA2436 Realtime & Big Data Analytics\nDate: May 7th, 2026\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: B+\nTextbook: Yes\nReview: Dude, why to keep online exams if you are so much suspicious about so many things. He got angried in the class so many times, lol even on the microphone and he doesn't interact with the students at all. What is the use of his knowledge and even the class, when it feels like emotion-less person is speaking. Don't even want to go towards his accent.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 0,
+      "professor": "Yang Tang",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2436 Realtime & Big Data Analytics",
+      "date": "May 7th, 2026"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::1",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: Dec 18th, 2024\nWould Take Again: Yes\nReview: Idk if I got the course code right. I took his grad OS course, which is pretty tough but you learn absolutely nothing from an easy OS course. Loved it. His labs are fun, and his exams are structured very very well.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 1,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Dec 18th, 2024"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::2",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2436 Realtime & Big Data Analytics\nDate: Aug 19th, 2023\nWould Take Again: Yes\nOnline Class: Yes\nReview: Class starts off easy, but the workload ramps up after the midterm. The project itself is a lot of work, and the final was MUCH harder than the midterm was. I only recommend the class because what you'll be learning is very marketable but, beware, this is not an easy A class. If you want an easy A class with a light workload, take something else",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 2,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2436 Realtime & Big Data Analytics",
+      "date": "Aug 19th, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::3",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA2250 Operating Systems\nDate: Jun 17th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: F\nTextbook: Yes\nReview: He saved my life.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 3,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Jun 17th, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::4",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2250 Operating Systems\nDate: May 3rd, 2023\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Prof. Tang goes above and beyond to make the course an enjoyable learning experience. The quality of the slides, homework, labs, and exams is excellent. I am really happy I took this course and I look forward to taking Prof. Tang's courses again in the coming semesters!",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 4,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "May 3rd, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 4.0\nCourse: CSCIGA2250 Operating Systems\nDate: May 3rd, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: N/A\nReview: Excellent materials and lectures. The professor is always very helpful, I have learned a lot from this course. But labs are really hard, many thanks to OpenAI.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 5,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "May 3rd, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::6",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2436 Realtime & Big Data Analytics\nDate: Mar 3rd, 2023\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nTextbook: Yes\nReview: One of the best professors. Up-to-date slides; clear lectures; good hw with clear instructions; help with programming and intuitively understand system design; has professional experience; help you get job; always willing and available to answer your questions; very funny and generous; care about your feelings as well. Can't hope for more.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 6,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2436 Realtime & Big Data Analytics",
+      "date": "Mar 3rd, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::7",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2436 Realtime & Big Data Analytics\nDate: Jan 10th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Rather not say\nTextbook: Yes\nReview: This is a great intro class to learn about data analytics and the underlying system design. Unlike classes that just feed to your mouth and teach you those techniques only. Professor Tang's class actually takes you through a journey in understanding what is there, why is so and how better. This way, it prepares you to think like a data scientist.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 7,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2436 Realtime & Big Data Analytics",
+      "date": "Jan 10th, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::8",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2250 Operating Systems\nDate: Jan 9th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Rather not say\nTextbook: Yes\nReview: The labs are great practice and can be very helpful for technical interviews. If you put effort and time into them, you will find them great investments. The materials could feel challenging for people with less experience, but that is just a fact for OS in general. You can almost find help from the professor 24/7 during office hour or via discord.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 8,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Jan 9th, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::9",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2250 Operating Systems\nDate: Jan 9th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Rather not say\nTextbook: Yes\nReview: Professor Tang is extremely caring for his students and passionate about teaching. He is always open to students with questions or willing to dig deeper into the topic. His lectures are fun and engaging. You can tell that he puts a lot of effort into making his lecture notes clear.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 9,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2250 Operating Systems",
+      "date": "Jan 9th, 2023"
+    }
+  },
+  {
+    "id": "rmp_tang_reviews.txt::10",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA2436 Realtime & Big Data Analytics\nDate: Dec 29th, 2022\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\nReview: He is a great professor to take at NYU grad. His lectures are very informative and have a variety of useful concepts covered, the knowledge will be very useful for your career. Homework is pretty easy, but the exams need a deep understanding of his materials. You need to put in some effort for a good grade.",
+    "metadata": {
+      "source": "rmp_tang_reviews.txt",
+      "position": 10,
+      "professor": "Yang Tang",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA2436 Realtime & Big Data Analytics",
+      "date": "Dec 29th, 2022"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::0",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Mar 7th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nGrade: Not sure yet\nTextbook: Yes\nReview: Giving a 1 because this platform does not allow a 0 rating. Avoid!",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 0,
+      "professor": "Chee Yap",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Mar 7th, 2026"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::1",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Feb 6th, 2026\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: Not sure yet\nReview: Rip in advance to all those taking the course this semester. If you think Algorithms is boring, take this class and you'll start hating it. The TA is of no help as well",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 1,
+      "professor": "Chee Yap",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Feb 6th, 2026"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::2",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Mar 5th, 2025\nFor Credit: Yes\nAttendance: Mandatory\nTextbook: Yes\nReview: I think he's too old to teach now, confused all the time, im sure he was a super smart professor maybe 20 years ago now he just forgets everything and confused himself",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 2,
+      "professor": "Chee Yap",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Mar 5th, 2025"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::3",
+    "text": "Quality: 2.0\nDifficulty: 4.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 26th, 2024\nFor Credit: Yes\nAttendance: Mandatory\nGrade: A\nTextbook: Yes\nReview: Despite the depth provided by the notes, Prof Yap makes it no easier to help the class understand, often making mistakes. But that was much more helpful when compared to the TA, who could not communicate effectively for a single recitation during the entire semester. Lots of homework, but completing them will ensure the curved grading saves you.",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 3,
+      "professor": "Chee Yap",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 26th, 2024"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::4",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 25th, 2024\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nTextbook: Yes\nReview: I don't understand why so many students gave low ratings. He is clearly a responsible and caring professor, with very sufficient office hours, and he answers questions promptly and thoroughly. I understand that the assignments are difficult, but is it really fair to give a professor low ratings just because the assignments are hard?",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 4,
+      "professor": "Chee Yap",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 25th, 2024"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 18th, 2024\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\nOnline Class: Yes\nReview: If you do wanna learn and train your brain, I recommend to choose Professor Yap.",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 5,
+      "professor": "Chee Yap",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 18th, 2024"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::6",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 16th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nTextbook: N/A\nReview: Very messy organization.",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 6,
+      "professor": "Chee Yap",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 16th, 2024"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::7",
+    "text": "Quality: 3.0\nDifficulty: 3.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Oct 27th, 2023\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\nReview: Prof is ok. Just prepare to study and ask for help.",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 7,
+      "professor": "Chee Yap",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Oct 27th, 2023"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::8",
+    "text": "Quality: 1.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Jun 24th, 2023\nFor Credit: Yes\nAttendance: Mandatory\nGrade: A-\nTextbook: N/A\nReview: Just avoid him. His lectures are extremely boring. Instead of using a textbook, he uses his own materials that are very poorly written (confusing and containing lots of errors) and outdated. He just can't explain things clearly. Also, don't believe in his promises about grading or anything, he will always find ways to circumvent them as he pleased.",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 8,
+      "professor": "Chee Yap",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Jun 24th, 2023"
+    }
+  },
+  {
+    "id": "rmp_yap_reviews.txt::9",
+    "text": "Quality: 4.0\nDifficulty: 5.0\nCourse: CSCIGA1170 Fundamental Algorithms\nDate: Dec 23rd, 2022\nFor Credit: Yes\nAttendance: Not Mandatory\nTextbook: N/A\nReview: Prof is a nice person, and understands his curiculum very well. Things get very Math heavy a lot of the time, so for people who really want to understand the inner workings in depth, this is a great course, otherwise it might be a little way extra for understanding Algorithms. The Homeworks are way harder than the end-term exams.",
+    "metadata": {
+      "source": "rmp_yap_reviews.txt",
+      "position": 9,
+      "professor": "Chee Yap",
+      "quality": 4.0,
+      "difficulty": 5.0,
+      "course": "CSCIGA1170 Fundamental Algorithms",
+      "date": "Dec 23rd, 2022"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::0",
+    "text": "Quality: 5.0\nDifficulty: 2.0\nCourse: CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming\nDate: May 22nd, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: N/A\nReview: GPU elective course; fair workload; insightful lectures from which everyone learns a lot; lenient grading",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 0,
+      "professor": "Mohamed Zahran",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming",
+      "date": "May 22nd, 2025"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::1",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming\nDate: Dec 23rd, 2024\nWould Take Again: Yes\nGrade: A-\nReview: Professor Z is very nice! He makes class interesting and is good at explaining concepts. He will give you many challenges, but that is part of the learning process and its rewarding when you succeed. Lenient grader and encourages students.",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 1,
+      "professor": "Mohamed Zahran",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming",
+      "date": "Dec 23rd, 2024"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::2",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming\nDate: Oct 14th, 2022\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\nReview: Z is the most hilarious prof ever. So many excellent jokes to keep us engaged for GPU architecture. You get complementary high quality, stand-up performance in addition to the course content. Very clear, helpful, and kind. Deadline is tight, but otherwise the lecture, the assignment, the learning environment and the slides are all perfect.",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 2,
+      "professor": "Mohamed Zahran",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming",
+      "date": "Oct 14th, 2022"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::3",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming\nDate: Feb 22nd, 2019\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nReview: Z teaches and organizes his lectures into themes. You wont do well simply by memorizing the lectures. if you understand the major themes for GPUs, you will do fairly well for the final. bulk of the grade is also from the project. hw/labs are on the light side. this class is as hard as you want your project to be.",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 3,
+      "professor": "Mohamed Zahran",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA3033 Graphics Processing Units (GPUs): Architecture & Programming",
+      "date": "Feb 22nd, 2019"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::4",
+    "text": "Quality: 4.0\nDifficulty: 3.0\nCourse: CSCIGA1144\nDate: May 26th, 2020\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: Took PAC II with him. Great Professor and funny guy. Start your project early. Midterm was medium/easy, final was hard. Make sure you ask him what to expect on the exams. FYI you will not hear back from NYU if you apply to the MSCS until your final grade is submitted. They didn't really tell us that which made for a pretty nerve-wracking April.",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 4,
+      "professor": "Mohamed Zahran",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA1144",
+      "date": "May 26th, 2020"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::5",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA1144\nDate: May 29th, 2018\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: Yes\nReview: Prof Z had well structured and organized lectures. His lectures moved fast so try not to skip lecture. He does a good job at reinforcing the different levels of abstraction in CS. Class was light on the HW and it wasnt too difficult. That said, majority of your grade was from exams. The actual exams were a tad harder than his practice exams.",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 5,
+      "professor": "Mohamed Zahran",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA1144",
+      "date": "May 29th, 2018"
+    }
+  },
+  {
+    "id": "rmp_zahran_reviews.txt::6",
+    "text": "Quality: 5.0\nDifficulty: 3.0\nCourse: CSCIGA1144\nDate: May 21st, 2018\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: No\nReview: Prof. Z is a great professor! He's funny and engaging, his lectures are clear, and the homework is pretty straight-forward. The midterm was easy, but I think we did better than he expected so the final was a bit harder. Not terrible if you study but do beware that some of the questions are less about memorizing and more about problem solving.",
+    "metadata": {
+      "source": "rmp_zahran_reviews.txt",
+      "position": 6,
+      "professor": "Mohamed Zahran",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "CSCIGA1144",
+      "date": "May 21st, 2018"
+    }
+  }
+]
