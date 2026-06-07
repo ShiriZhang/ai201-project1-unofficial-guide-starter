@@ -14,6 +14,10 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+- Domain: Real rate my professor (RMP) reviews from students in NYU Courant's graduate computer science program.
+
+- Why valuable?: You cannot find information below through official channels like whether the exams of certain courses will be graded on a curve, how many hours of homework you'll have each week, whether TAs are helpful, or how clear the professors' lectures are.
+
 ---
 
 ## Document Sources
@@ -22,18 +26,18 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| #   | Source | Type | URL or file path |
-| --- | ------ | ---- | ---------------- |
-| 1   |        |      |                  |
-| 2   |        |      |                  |
-| 3   |        |      |                  |
-| 4   |        |      |                  |
-| 5   |        |      |                  |
-| 6   |        |      |                  |
-| 7   |        |      |                  |
-| 8   |        |      |                  |
-| 9   |        |      |                  |
-| 10  |        |      |                  |
+| #   | Source | Type | URL or file path                                   |
+| --- | ------ | ---- | -------------------------------------------------- |
+| 1   | RMP    | txt  | https://www.ratemyprofessors.com/professor/2094203 |
+| 2   | RMP    | txt  | https://www.ratemyprofessors.com/professor/2733433 |
+| 3   | RMP    | txt  | https://www.ratemyprofessors.com/professor/1617817 |
+| 4   | RMP    | txt  | https://www.ratemyprofessors.com/professor/1528605 |
+| 5   | RMP    | txt  | https://www.ratemyprofessors.com/professor/1941851 |
+| 6   | RMP    | txt  | https://www.ratemyprofessors.com/professor/1776202 |
+| 7   | RMP    | txt  | https://www.ratemyprofessors.com/professor/539405  |
+| 8   | RMP    | txt  | https://www.ratemyprofessors.com/professor/2738155 |
+| 9   | RMP    | txt  | https://www.ratemyprofessors.com/professor/419998  |
+| 10  | RMP    | txt  | https://www.ratemyprofessors.com/professor/1743821 |
 
 ---
 
@@ -46,13 +50,17 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** Use delimiter-based chunking strategy to split documents into chunks. Each chunk represents a review entry which includes review metadata and review texts.
 
-**Overlap:**
+**Overlap:** 0 or None
 
 **Why these choices fit your documents:**
 
-**Final chunk count:**
+- I use delimiter-based chunking strategy because in each document, each review entry is explicitly delimited by `---`.
+
+- The overlap is set to 0 because in each document, the delimiter is naturally set to be `---` which means after delimiter-based chunking, each chunk corresponds exactly to a single review entry. If I chunk with overlap, one good review entry might be mixed with its adjacent bad review entry.
+
+**Final chunk count:** 100
 
 ---
 
@@ -64,9 +72,9 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** all-MiniLM-L6-v2 via sentence-transformers.
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** Since the users are mostly NYU master students which include many international students, a multilingual model is preferred to deal with non-english queries if deployed in future. But the cost is slower inference. Moreover, on purely English tasks, specialized multilingual models sometimes perform worse in terms of single-language accuracy than comparable English-only models (since they allocate computational resources across dozens of languages)
 
 ---
 
@@ -79,9 +87,9 @@
      Do not just say "I told it to use the documents" — show the actual instruction or explain
      the mechanism. -->
 
-**System prompt grounding instruction:**
+**System prompt grounding instruction:** System prompt hard-constrains the model: answer ONLY from the provided reviews; if they don't cover it, say so; never use outside knowledge.
 
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** Source attribution is built in code from the retrieved chunks' metadata — NOT left to the LLM to produce — so citations are always accurate.
 
 ---
 
@@ -91,13 +99,13 @@
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-| #   | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-| --- | -------- | --------------- | ---------------------------- | ----------------- | ----------------- |
-| 1   |          |                 |                              |                   |                   |
-| 2   |          |                 |                              |                   |                   |
-| 3   |          |                 |                              |                   |                   |
-| 4   |          |                 |                              |                   |                   |
-| 5   |          |                 |                              |                   |                   |
+| #   | Question                                                                                | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
+| --- | --------------------------------------------------------------------------------------- | --------------- | ---------------------------- | ----------------- | ----------------- |
+| 1   | How do students think about the workload for Prof Dodis's fundamental algorithm course? |                 |                              |                   |                   |
+| 2   |                                                                                         |                 |                              |                   |                   |
+| 3   |                                                                                         |                 |                              |                   |                   |
+| 4   |                                                                                         |                 |                              |                   |                   |
+| 5   |                                                                                         |                 |                              |                   |                   |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -151,12 +159,12 @@
 
 **Instance 1**
 
-- _What I gave the AI:_ chunking strategy and document structure
+- _What I gave the AI:_ chunking strategy in planning.md and document structure
 - _What it produced:_ `chunk_text()` and `extract_metadata()` in `ingest.py`
 - _What I changed or overrode:_ revise documents' format based on the results of running `ingest.py`
 
 **Instance 2**
 
-- _What I gave the AI:_
-- _What it produced:_
-- _What I changed or overrode:_
+- _What I gave the AI:_ metadata filtering reasoning and strategy
+- _What it produced:_ `_build_name_lookup()` and `_detect_professors()` in `embed_store.py`
+- _What I changed or overrode:_ `retrieval()` in `embed_store.py`
