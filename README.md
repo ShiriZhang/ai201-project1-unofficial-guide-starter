@@ -1,7 +1,7 @@
 # The Unofficial Guide — Project 1
 
 > **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
+> Complete each section _after_ you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
 > Every section below is required for submission. One-liners will not receive full credit.
 
@@ -22,18 +22,18 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source | Type | URL or file path |
+| --- | ------ | ---- | ---------------- |
+| 1   |        |      |                  |
+| 2   |        |      |                  |
+| 3   |        |      |                  |
+| 4   |        |      |                  |
+| 5   |        |      |                  |
+| 6   |        |      |                  |
+| 7   |        |      |                  |
+| 8   |        |      |                  |
+| 9   |        |      |                  |
+| 10  |        |      |                  |
 
 ---
 
@@ -91,13 +91,13 @@
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| #   | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
+| --- | -------- | --------------- | ---------------------------- | ----------------- | ----------------- |
+| 1   |          |                 |                              |                   |                   |
+| 2   |          |                 |                              |                   |                   |
+| 3   |          |                 |                              |                   |                   |
+| 4   |          |                 |                              |                   |                   |
+| 5   |          |                 |                              |                   |                   |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -151,12 +151,12 @@
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- _What I gave the AI:_ chunking strategy and document structure
+- _What it produced:_ `chunk_text()` and `extract_metadata()` in `ingest.py`
+- _What I changed or overrode:_ revise documents' format based on the results of running `ingest.py`
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- _What I gave the AI:_
+- _What it produced:_
+- _What I changed or overrode:_

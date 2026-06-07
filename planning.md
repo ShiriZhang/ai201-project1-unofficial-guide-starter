@@ -183,3 +183,13 @@ flowchart TD
 - How to verify:
   - write grounding test to see if answers are traceable to retrieved text and if source is cited
   - ask questions which documents don't cover to see if the system explicitly says it doesn't have enough information
+
+## Stretch Feature: Metadata Filtering
+
+**Purpose:** Filter search results by the "professor" metadata field so that queries about a specific professor are limited to reviews written by that professor.
+
+**Reason:** The retrieval test for Milestone 4 revealed an issue of "cross-contamination" among professors teaching the same course. For example, for Q1, which asked about Dodis, four of the top five results were for Yap (both teach CSCIGA1170), while for Q4, which asked about Bethe, none of the top five results were for Bethe. Since pure semantic retrieval ranks results based on content similarity and ignores the professor's identity, queries about a single professor are often overshadowed by reviews from other professors on the same topic using similar wording.
+
+**How To Do:** Check whether the query contains the last name or full name of any known professors (use string match here because it doesn't require API call and is more controllable than using LLM to extract professors' names). If one or more professors match, use ChromaDB's `where` to filter (use `$in` for multiple professors), and perform semantic search only within the chunks associated with those professors. If no professor names match (e.g., Q3), revert to a full-database semantic search.
+
+**Expected Affected Queries:** Q1 and Q4 are expected to be fixed; Filtering using `$in` can deal with Q5 by focusing on Tang and Franke at the same time; Q3 does not specify any professors, so the full-database search will remain unaffected.
