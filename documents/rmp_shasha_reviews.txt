@@ -83,7 +83,7 @@ Review: Amazing professor! Everyone who likes problem solving and knows some cod
 Quality: 1.0
 Difficulty: 1.0
 Course: CSCIGA2434 Advanced Database Systems
-Oct 14th, 2019
+Date: Oct 14th, 2019
 For Credit: Yes
 Attendance: Not Mandatory
 Would Take Again: No
