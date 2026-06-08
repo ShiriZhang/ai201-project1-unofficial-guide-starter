@@ -58,7 +58,7 @@ def _build_context(hits):
     return "\n\n".join(blocks)
 
 
-def ask(query, k=TOP_K, threshold=DISTANCE_THRESHOLD):
+def ask(query, k=TOP_K, threshold=DISTANCE_THRESHOLD, mode="hybrid"):
     """
     Answer a question, grounded only in retrieved reviews.
 
@@ -68,10 +68,15 @@ def ask(query, k=TOP_K, threshold=DISTANCE_THRESHOLD):
           "sources": [<unique source filenames used>],
         }
     """
-    hits = retrieve(query, k=k)
+    hits = retrieve(query, k=k, mode=mode)
 
-    # Filter out weak matches (distance above threshold).
-    hits = [h for h in hits if h["distance"] <= threshold]
+    # Filter out weak semantic matches. BM25-only contributions have no
+    # distance, so keep them; otherwise hybrid search would discard exact
+    # keyword matches before generation can use them.
+    hits = [
+        h for h in hits
+        if h["distance"] is None or h["distance"] <= threshold
+    ]
 
     # If nothing survives, refuse WITHOUT calling the LLM — there is no
     # sufficiently relevant evidence to ground an answer in.

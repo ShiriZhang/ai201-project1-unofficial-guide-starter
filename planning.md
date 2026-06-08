@@ -193,3 +193,13 @@ flowchart TD
 **How To Do:** Check whether the query contains the last name or full name of any known professors (use string match here because it doesn't require API call and is more controllable than using LLM to extract professors' names). If one or more professors match, use ChromaDB's `where` to filter (use `$in` for multiple professors), and perform semantic search only within the chunks associated with those professors. If no professor names match (e.g., Q3), revert to a full-database semantic search.
 
 **Expected Affected Queries:** Q1 and Q4 are expected to be fixed; Filtering using `$in` can deal with Q5 by focusing on Tang and Franke at the same time; Q3 does not specify any professors, so the full-database search will remain unaffected.
+
+## Stretch Feature: Hybrid Search
+
+**Purpose:** Combine semantic vector search with keyword BM25 search, then compare the hybrid results against semantic-only retrieval.
+
+**Reason:** Semantic search is good at matching paraphrases and overall meaning, but it can underweight exact tokens that matter in this domain, such as `curve`, `workload`, `operating system`, professor surnames, and course codes like `CSCIGA1170`. BM25 complements semantic search because it rewards exact keyword overlap. For example, a query asking "Which professor's course uses a grading curve?" should strongly reward reviews that literally mention `curve`, even if the surrounding text is not semantically similar to the whole query.
+
+**How To Do:** Use `rank_bm25` to build a BM25 index over the same review chunks in `chunks.json`. Keep the existing professor-name metadata filtering: if a query mentions one or more professors, both semantic search and BM25 search should run only over those professors' chunks. Run semantic search and BM25 separately, then combine their ranked lists with Reciprocal Rank Fusion (RRF). RRF is a good fit because it uses each retriever's rank position instead of trying to compare cosine distance and BM25 scores directly.
+
+**Comparison Plan:** Add `compare_search.py` to run the 5 evaluation questions and print semantic-only top-5 results beside hybrid top-5 results. In the README, record at least 3 of these comparisons and summarize where hybrid search improves retrieval and where it may add noise.
